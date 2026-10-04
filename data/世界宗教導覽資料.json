@@ -1,0 +1,4359 @@
+{
+  "updatedAt": "2026-10-04",
+  "profiles": {
+    "checkedAt": "2026-10-04",
+    "editorialNote": "這是教學導覽，不是傳教或宗教排名。十張卡不是世界宗教的完整名單；耆那教、巴哈伊、祆教、非洲及非洲離散傳統等仍值得延伸。來源中的宗教自述已標示；它們能說明機構如何理解自己，不必然代表所有信徒。",
+    "profiles": [
+      {
+        "id": "christianity",
+        "name": "基督宗教",
+        "family": "起源於西亞的傳統",
+        "summary": "基督宗教起於西元一世紀羅馬統治下的猶太地區，以耶穌的生平、教導，以及信徒所信的受難與復活為中心。歷史研究可以探討文本與早期社群；復活的宗教意義則應以「基督徒相信」表述。《聖經》包含舊約與新約，但各教會的正典範圍與詮釋不盡相同。洗禮、聖餐、祈禱與服務他人是常見實踐；復活節與聖誕節也有不同曆法及地方習俗。天主教重視與教宗共融；東方正教會由多個地方教會組成；新教包含路德宗、改革宗、浸信宗、五旬節等不同傳統，另有東方古老教會。這些名稱不能預測每位信徒的政治或道德立場。研究女性聖職、宣教與殖民等問題時，要指出是哪個教會、哪個年代與哪套制度，而不是把所有基督徒視為同一群體。",
+        "summarySourceIds": [
+          "chr",
+          "cath",
+          "orth",
+          "prot",
+          "canon",
+          "anglican",
+          "chr-life",
+          "chr-resurrection"
+        ],
+        "origin": {
+          "text": "一世紀，東地中海的猶太地區。耶穌復活是信仰宣認；早期教會形成則可用文獻與歷史方法研究。",
+          "sourceIds": [
+            "chr",
+            "chr-life",
+            "chr-resurrection"
+          ]
+        },
+        "history": [
+          {
+            "date": "一世紀",
+            "text": "耶穌運動及早期教會在猶太與希臘羅馬世界發展。",
+            "sourceIds": [
+              "chr",
+              "chr-life"
+            ]
+          },
+          {
+            "date": "四世紀",
+            "text": "羅馬皇帝支持與大公會議，改變教會的公共地位及信條形成。",
+            "sourceIds": [
+              "chrhist"
+            ]
+          },
+          {
+            "date": "1054年前後",
+            "text": "東西教會分離的重要象徵節點；分離是長期過程，非一天突然完成。",
+            "sourceIds": [
+              "orth"
+            ]
+          },
+          {
+            "date": "十六世紀",
+            "text": "歐洲宗教改革促成多種新教傳統；天主教也推動改革。",
+            "sourceIds": [
+              "prot"
+            ]
+          }
+        ],
+        "features": [
+          {
+            "label": "經典與觀念",
+            "text": "《聖經》、耶穌基督、救恩；三位一體是多數歷史教會的核心信條，但並非所有自稱基督徒的群體都採同一表述。",
+            "sourceIds": [
+              "chr"
+            ]
+          },
+          {
+            "label": "儀式與節慶",
+            "text": "洗禮、聖餐、禮拜；復活節、聖誕節。教會對聖餐意義及聖禮數目有差異。",
+            "sourceIds": [
+              "chr",
+              "prot"
+            ]
+          }
+        ],
+        "diversity": {
+          "text": "天主教含拉丁及東方天主教會；東方正教不等於所有東方古老教會；新教也不是單一組織。",
+          "sourceIds": [
+            "cath",
+            "orth",
+            "prot"
+          ]
+        },
+        "misconceptions": [
+          {
+            "misconception": "天主教不算基督宗教。",
+            "correction": "「基督宗教」是較廣的統稱，包含天主教、東方正教及新教等。",
+            "sourceIds": [
+              "chr"
+            ]
+          },
+          {
+            "misconception": "所有基督徒都照字面讀聖經。",
+            "correction": "釋經方法、教會權威與信徒實踐各不相同。",
+            "sourceIds": [
+              "prot",
+              "cath"
+            ]
+          }
+        ],
+        "contentions": [
+          {
+            "title": "女性聖職：制度比較",
+            "text": "天主教法典1024條限定受聖秩者為受洗男性；英格蘭教會則於2015年祝聖首位女性主教。可比較經典詮釋、教會權威及平等主張，而不把任何一例當作全體基督宗教的規則。",
+            "sourceIds": [
+              "canon",
+              "anglican"
+            ]
+          }
+        ],
+        "questions": [
+          "同一本經典為何能產生不同教會制度？",
+          "如何區分教會的正式規範與個別信徒的看法？"
+        ]
+      },
+      {
+        "id": "islam",
+        "name": "伊斯蘭",
+        "family": "起源於西亞的傳統",
+        "summary": "伊斯蘭的歷史起點在七世紀阿拉伯半島。穆斯林相信穆罕默德領受真主啟示；歷史敘事則研究麥加、麥地那的社群與文本形成。《古蘭經》居核心地位，聖訓記錄先知言行，但不同傳統對文獻與權威的理解有別。信仰告白、禮拜、施捨、齋戒與朝覲常以「五功」介紹，這主要採用遜尼派的整理方式；實際參與仍受健康、能力與處境影響。齋月結束的開齋節及朝覲季的宰牲節很重要。遜尼與什葉分歧最初涉及領導繼承，後來發展出不同法學與神學；蘇非修行可跨越這些分類。穆斯林分布於多種語言文化，不能等同阿拉伯人。今日關於家庭法、性別與宗教自由的討論，涉及國家立法、殖民歷史、法學家與公民社會，不能只用「經典寫了甚麼」解釋。",
+        "summarySourceIds": [
+          "isl",
+          "sunni",
+          "sharia",
+          "islhist",
+          "isl-muhammad"
+        ],
+        "origin": {
+          "text": "七世紀，阿拉伯半島的麥加與麥地那。約610年初次啟示屬穆斯林傳統敘事；622年遷徙是伊斯蘭紀年的重要起點。",
+          "sourceIds": [
+            "isl",
+            "islhist",
+            "isl-muhammad"
+          ]
+        },
+        "history": [
+          {
+            "date": "約610年",
+            "text": "穆斯林傳統以穆罕默德開始領受啟示作為重要起點。",
+            "sourceIds": [
+              "islhist",
+              "isl-muhammad"
+            ]
+          },
+          {
+            "date": "622年",
+            "text": "遷徙至麥地那，社群與政治秩序進一步形成。",
+            "sourceIds": [
+              "islhist",
+              "isl-muhammad"
+            ]
+          },
+          {
+            "date": "632年以後",
+            "text": "領導繼承的分歧逐步發展為遜尼、什葉等傳統。",
+            "sourceIds": [
+              "islhist",
+              "sunni"
+            ]
+          },
+          {
+            "date": "十七至二十世紀",
+            "text": "歐洲殖民及其後的獨立、改革與移民，重塑不少穆斯林社會。",
+            "sourceIds": [
+              "isl"
+            ]
+          }
+        ],
+        "features": [
+          {
+            "label": "經典與觀念",
+            "text": "《古蘭經》、聖訓；強調真主唯一、倫理責任與社群。",
+            "sourceIds": [
+              "isl"
+            ]
+          },
+          {
+            "label": "儀式與節慶",
+            "text": "禮拜、齋戒、施捨、朝覲；開齋節與宰牲節。什葉社群另重視侯賽因的紀念。",
+            "sourceIds": [
+              "isl"
+            ]
+          }
+        ],
+        "diversity": {
+          "text": "遜尼派有多個法學學派；什葉也有不同支派。蘇非是修行取向，不能簡單當成與遜尼、什葉互斥的第三宗派。",
+          "sourceIds": [
+            "sunni",
+            "isl",
+            "sharia"
+          ]
+        },
+        "misconceptions": [
+          {
+            "misconception": "穆斯林就是阿拉伯人。",
+            "correction": "宗教身份與族群身份不同，伊斯蘭歷經跨亞洲、非洲及其他地區的傳播。",
+            "sourceIds": [
+              "isl"
+            ]
+          },
+          {
+            "misconception": "沙里亞是一部世界各地完全相同的刑法。",
+            "correction": "它涵蓋禮儀、倫理、家庭及生活規範；法學詮釋與各國立法有差異，刑法只是其中一部分。",
+            "sourceIds": [
+              "sharia"
+            ]
+          }
+        ],
+        "contentions": [
+          {
+            "title": "宗教規範與國家法律",
+            "text": "比較家庭法時，要分辨沙里亞的宗教理想、法學家的人為詮釋（fiqh）與國家制定的法律；三者不能互換。公民對性別平等與宗教自由的主張也有多種宗教及非宗教理由。",
+            "sourceIds": [
+              "sharia",
+              "udhr"
+            ]
+          }
+        ],
+        "questions": [
+          "宗教理想、法學意見與國家法律的權威來源有何不同？",
+          "為什麼服飾不能單獨告訴我們一個人的信仰程度？"
+        ]
+      },
+      {
+        "id": "hinduism",
+        "name": "印度教",
+        "family": "南亞多元傳統",
+        "summary": "印度教不是由單一創辦人在某年建立的宗教，而是南亞多種祭祀、哲學、敬神與地方傳統長期交織的結果。吠陀傳統可追溯至西元前第二千紀；部分信徒稱其為永恆的法，這是信仰上的自我理解，不是可直接換算的創教日期。《吠陀》《奧義書》《薄伽梵歌》與史詩等各具地位，沒有所有社群一致遵守的單一教義清單。業、輪迴、解脫與法是常見觀念，但解釋並不統一。毗濕奴、濕婆及女神信仰各有豐富傳統；有些思想強調究竟實在的一體性。家庭供奉、寺廟禮敬、朝聖及排燈節等，依地區而異。印度教內部也長期存在對種姓階序的批判與改革。討論種姓時應辨別社會制度、宗教論證與改革者的行動，不可把出生群體當作人的價值，也不能假設每位印度教徒都支持歧視。",
+        "summarySourceIds": [
+          "hin",
+          "hinhist",
+          "veda",
+          "dharma",
+          "diwali"
+        ],
+        "origin": {
+          "text": "南亞長時段形成；吠陀詩歌的歷史背景約在西元前第二千紀，並非整個印度教的唯一「生日」。",
+          "sourceIds": [
+            "hinhist",
+            "veda"
+          ]
+        },
+        "history": [
+          {
+            "date": "約西元前第二千紀",
+            "text": "早期吠陀讚歌與祭祀傳統發展。",
+            "sourceIds": [
+              "hinhist",
+              "veda"
+            ]
+          },
+          {
+            "date": "西元前第一千紀",
+            "text": "奧義書等文本展開對自我、宇宙與解脫的思考。",
+            "sourceIds": [
+              "hinhist"
+            ]
+          },
+          {
+            "date": "中世紀",
+            "text": "各地虔信（bhakti）傳統透過詩歌、地方語言及敬神實踐發展。",
+            "sourceIds": [
+              "hin",
+              "hinhist"
+            ]
+          },
+          {
+            "date": "十九至二十世紀",
+            "text": "殖民處境、改革運動及海外移民促成新的宗教組織與自我表述。",
+            "sourceIds": [
+              "hinhist"
+            ]
+          }
+        ],
+        "features": [
+          {
+            "label": "經典與觀念",
+            "text": "《吠陀》《奧義書》《薄伽梵歌》；業、輪迴、法與解脫，但各派詮釋不同。",
+            "sourceIds": [
+              "hin",
+              "veda"
+            ]
+          },
+          {
+            "label": "儀式與節慶",
+            "text": "供奉（puja）、朝聖、家庭與寺廟禮敬；排燈節在不同社群有不同重點。",
+            "sourceIds": [
+              "hin",
+              "diwali"
+            ]
+          }
+        ],
+        "diversity": {
+          "text": "毗濕奴派、濕婆派、女神傳統及各哲學學派彼此交織；不能只以「多神教」完整概括。",
+          "sourceIds": [
+            "hin"
+          ]
+        },
+        "misconceptions": [
+          {
+            "misconception": "印度教有一位創辦人與一本唯一經典。",
+            "correction": "它是多傳統長期形成的集合，有不同經典及權威。",
+            "sourceIds": [
+              "hin"
+            ]
+          },
+          {
+            "misconception": "所有印度人都是印度教徒。",
+            "correction": "南亞共享文化場域中也有穆斯林、錫克、佛教、耆那等社群；國籍不等於宗教。",
+            "sourceIds": [
+              "rivers"
+            ]
+          },
+          {
+            "misconception": "業代表弱勢者活該受苦。",
+            "correction": "這種說法把複雜倫理簡化為責怪受害者，也忽略反種姓批判與改革。",
+            "sourceIds": [
+              "dharma"
+            ]
+          }
+        ],
+        "contentions": [
+          {
+            "title": "種姓、平等與改革",
+            "text": "種姓包含理論上的varna與眾多地方出生群體jati；社會實踐不能直接等同某一經文。研究時應同時納入受歧視者、反種姓改革者與不同印度教詮釋的聲音。",
+            "sourceIds": [
+              "dharma"
+            ]
+          }
+        ],
+        "questions": [
+          "宗教教導、社會階序與法律改革應如何分開分析？",
+          "當信仰沒有單一創辦人時，歷史時間線應如何編寫？"
+        ]
+      },
+      {
+        "id": "buddhism",
+        "name": "佛教",
+        "family": "南亞起源、跨亞洲發展",
+        "summary": "佛教發源於南亞，以釋迦牟尼的教導與覺悟為中心。歷史研究一般把他的活動置於西元前第一千紀中葉，精確生卒年仍有分歧；不同傳統的佛誕故事及紀年不宜直接當成同一套歷史年代。四聖諦、八正道、緣起及慈悲等教導，關注苦的原因與解脫之道。巴利、漢文與藏文經藏並不完全相同，修行也不只坐禪，還有持戒、布施、誦經、禮佛與照顧社群。上座部、大乘與金剛乘是常見分類，但金剛乘通常也立基於大乘；漢傳、藏傳及南傳是另一種不完全重合的分法。佛誕與衛塞節的日期、紀念內容因地而異。僧團與在家人互相支持，女性一直是佛教歷史的一部分。當代對女性受戒與宗教權威的討論，須區分各地戒律傳承及制度，不能假設所有佛教都作同一決定。",
+        "summarySourceIds": [
+          "bud",
+          "budspread",
+          "vesak",
+          "budwomen",
+          "bud-path",
+          "buddha-sep"
+        ],
+        "origin": {
+          "text": "南亞，今印度北部與尼泊爾一帶；佛陀年代在不同研究與傳統中有差異，本卡採「西元前第一千紀中葉」的寬範圍。",
+          "sourceIds": [
+            "bud",
+            "bud-path",
+            "buddha-sep"
+          ]
+        },
+        "history": [
+          {
+            "date": "西元前第一千紀中葉",
+            "text": "釋迦牟尼教學與早期僧團發展；精確年代有爭議。",
+            "sourceIds": [
+              "bud",
+              "bud-path",
+              "buddha-sep"
+            ]
+          },
+          {
+            "date": "西元前三世紀",
+            "text": "阿育王支持佛教，傳播網絡向南亞各地延伸。",
+            "sourceIds": [
+              "budspread"
+            ]
+          },
+          {
+            "date": "西元初數世紀起",
+            "text": "大乘經典與跨中亞、東亞傳播持續發展。",
+            "sourceIds": [
+              "budspread",
+              "bud"
+            ]
+          },
+          {
+            "date": "近現代",
+            "text": "移民、改革與全球交流形成新的在家修行、教育與社會參與形式。",
+            "sourceIds": [
+              "bud",
+              "budwomen"
+            ]
+          }
+        ],
+        "features": [
+          {
+            "label": "經典與觀念",
+            "text": "巴利、漢文及藏文經藏；四聖諦、八正道、緣起與解脫。",
+            "sourceIds": [
+              "bud"
+            ]
+          },
+          {
+            "label": "儀式與節慶",
+            "text": "持戒、布施、禪修、誦經與禮佛；衛塞節與佛誕慶祝方式不一。",
+            "sourceIds": [
+              "bud",
+              "vesak"
+            ]
+          }
+        ],
+        "diversity": {
+          "text": "上座部、大乘、金剛乘不宜畫成完全互斥三格；各傳統內也有不同宗派、在家及出家生活。",
+          "sourceIds": [
+            "bud",
+            "bud-path"
+          ]
+        },
+        "misconceptions": [
+          {
+            "misconception": "佛教只是一套冥想技巧。",
+            "correction": "它也包括倫理、儀式、經典、僧團及廣大在家社群。",
+            "sourceIds": [
+              "bud"
+            ]
+          },
+          {
+            "misconception": "佛教徒都不信任何超越性存在，也不做儀式。",
+            "correction": "多種傳統重視諸佛、菩薩、禮敬與功德，不能用單一哲學立場概括。",
+            "sourceIds": [
+              "bud"
+            ]
+          }
+        ],
+        "contentions": [
+          {
+            "title": "女性受戒與權威",
+            "text": "一些地區的比丘尼傳承持續存在，另一些地區推動恢復或建立完整受戒制度；支持者與反對者對戒律合法性有不同解釋。應指明傳統與地區，勿寫成全佛教統一的女性禁令。",
+            "sourceIds": [
+              "budwomen"
+            ]
+          }
+        ],
+        "questions": [
+          "把佛教稱作「哲學」或「宗教」，分別顯露或遮蔽哪些實踐？",
+          "同一節日為什麼會有不同日期？"
+        ]
+      },
+      {
+        "id": "judaism",
+        "name": "猶太教",
+        "family": "起源於西亞的傳統",
+        "summary": "猶太教與古代以色列及猶太人的歷史緊密相連，不能簡化成只有共同信條的組織。傳統以亞伯拉罕的盟約、摩西與出埃及等敘事理解群體起源；歷史研究則追索古代黎凡特的社群、文本與祭祀如何逐步發展。《妥拉》通常指希伯來聖經前五卷，也可廣指教導；《塔木德》保存拉比對法律與生活的討論。安息日、逾越節與贖罪日，連結休息、記憶、責任及反省。西元70年第二聖殿被毀後，拉比、會堂與學習在猶太生活中更居核心。正統派、保守派、改革派等對律法及改革各有主張；另有不同地域文化與世俗猶太身份，這些分類並不重合。猶太人、猶太教、以色列國籍與特定政府政策不能畫上等號。對身份認定、性別角色或政治的爭論，應呈現具體社群的不同聲音，避免把某個立場套在所有猶太人身上。",
+        "summarySourceIds": [
+          "jew",
+          "jewpost",
+          "jewidentity",
+          "jew-monotheism",
+          "jew-peoplehood"
+        ],
+        "origin": {
+          "text": "古代黎凡特，西元前第一千紀已有以色列、猶大及其宗教歷史；聖經中的祖先敘事與現代歷史重建不是同一種證據。",
+          "sourceIds": [
+            "jew",
+            "jew-monotheism",
+            "jew-peoplehood"
+          ]
+        },
+        "history": [
+          {
+            "date": "古代以色列與猶大時期",
+            "text": "希伯來聖經的傳承在古代西亞歷史中逐步形成。",
+            "sourceIds": [
+              "jew",
+              "jew-monotheism"
+            ]
+          },
+          {
+            "date": "西元70年",
+            "text": "羅馬摧毀耶路撒冷第二聖殿，猶太社群重整宗教生活。",
+            "sourceIds": [
+              "jewpost"
+            ]
+          },
+          {
+            "date": "古代晚期至中世紀",
+            "text": "拉比文獻及離散社群發展；不同地域形成各自語言與文化。",
+            "sourceIds": [
+              "jew",
+              "jewpost"
+            ]
+          },
+          {
+            "date": "近代",
+            "text": "啟蒙、解放、改革運動與反猶迫害，重塑宗教及民族身份討論。",
+            "sourceIds": [
+              "jew"
+            ]
+          }
+        ],
+        "features": [
+          {
+            "label": "經典與觀念",
+            "text": "《妥拉》、希伯來聖經與《塔木德》；盟約、誡命、學習與倫理責任。",
+            "sourceIds": [
+              "jew"
+            ]
+          },
+          {
+            "label": "儀式與節慶",
+            "text": "安息日、逾越節、贖罪日；飲食規範及實踐程度依社群與個人而異。",
+            "sourceIds": [
+              "jew"
+            ]
+          }
+        ],
+        "diversity": {
+          "text": "宗派、阿什肯納茲／塞法迪等地域文化、宗教／世俗身份是不同分類軸，不可互相代替。",
+          "sourceIds": [
+            "jew",
+            "jewidentity"
+          ]
+        },
+        "misconceptions": [
+          {
+            "misconception": "猶太人全都信教，也都持相同政治立場。",
+            "correction": "猶太身份兼有宗教、歷史及文化面向；世俗身份與政治差異都存在。",
+            "sourceIds": [
+              "jew",
+              "jewidentity"
+            ]
+          },
+          {
+            "misconception": "猶太教只是基督宗教的舊約背景。",
+            "correction": "它有延續至今的拉比傳統、生活實踐與獨立詮釋歷史。",
+            "sourceIds": [
+              "jewpost"
+            ]
+          }
+        ],
+        "contentions": [
+          {
+            "title": "誰有權界定身份？",
+            "text": "不同社群對出生、皈依與家庭傳承的認定不盡相同。例如美國改革派1983年的父系傳承決議，與其他宗派的做法不同；不可把某派規則直接當成全體猶太人的共同標準。",
+            "sourceIds": [
+              "jewidentity"
+            ]
+          }
+        ],
+        "questions": [
+          "同一個人如何同時具有宗教、民族、文化與公民身份？",
+          "研究猶太教時，為何需要閱讀拉比傳統，而不只讀聖經？"
+        ]
+      },
+      {
+        "id": "sikhism",
+        "name": "錫克教",
+        "family": "旁遮普起源的獨立傳統",
+        "summary": "錫克教在十五世紀末至十六世紀的旁遮普地區，圍繞古魯那納克及其後的導師發展。信徒以那納克與神相遇的敘事理解其使命；歷史研究則探討他的讚歌、社群與當時南亞社會。《古魯・格蘭特・薩希卜》被尊為永恆古魯，含多位宗教詩人的作品。錫克教強調唯一的神、誠實勞動、分享及無私服務；古魯德瓦拉中的共同廚房（langar）以免費共餐表達平等。1699年建立的卡爾薩群體有特定入門及生活規範，但並非每位錫克人的實踐形式都相同。維薩基節紀念卡爾薩的形成，也連結旁遮普的季節生活。錫克教有自己的歷史與權威，不能視為印度教或伊斯蘭的簡單混合。頭巾、留髮與其他信仰標記，在移民社會可能涉及制服、安全與反歧視的協商；討論應聆聽當事人的解釋，不以外觀推定其國籍或政治立場。",
+        "summarySourceIds": [
+          "sikh",
+          "sikhhist",
+          "sikhbelief",
+          "sikhfaq",
+          "sikhmission"
+        ],
+        "origin": {
+          "text": "十五世紀末至十六世紀，南亞旁遮普；那納克的神聖經驗屬信仰敘事，導師社群的形成有歷史脈絡。",
+          "sourceIds": [
+            "sikh",
+            "sikhhist"
+          ]
+        },
+        "history": [
+          {
+            "date": "1469–1539年",
+            "text": "古魯那納克的生平年代；其教導促成錫克社群。",
+            "sourceIds": [
+              "sikhhist"
+            ]
+          },
+          {
+            "date": "1699年",
+            "text": "第十位古魯戈賓德・辛格建立卡爾薩。",
+            "sourceIds": [
+              "sikhhist"
+            ]
+          },
+          {
+            "date": "1708年",
+            "text": "古魯權威傳承至經典與群體的重要節點。",
+            "sourceIds": [
+              "sikhhist"
+            ]
+          },
+          {
+            "date": "1849年／1947年",
+            "text": "英國併吞旁遮普，以及後來印巴分治，改變錫克社群的政治及遷徙歷史。",
+            "sourceIds": [
+              "sikh",
+              "sikhhist"
+            ]
+          }
+        ],
+        "features": [
+          {
+            "label": "經典與觀念",
+            "text": "《古魯・格蘭特・薩希卜》；唯一的神、平等、分享與服務。",
+            "sourceIds": [
+              "sikh",
+              "sikhbelief"
+            ]
+          },
+          {
+            "label": "儀式與節慶",
+            "text": "唱誦讚歌、共餐、服務；維薩基節及導師紀念日。",
+            "sourceIds": [
+              "sikh",
+              "sikhfaq",
+              "sikhhist"
+            ]
+          }
+        ],
+        "diversity": {
+          "text": "卡爾薩入門、留髮與生活規範的遵守形式有差異；不能以頭巾判定一個人是否「真正」的錫克人。",
+          "sourceIds": [
+            "sikh",
+            "sikhfaq"
+          ]
+        },
+        "misconceptions": [
+          {
+            "misconception": "錫克教是印度教與伊斯蘭拼在一起。",
+            "correction": "它在共享的南亞文化中發展，卻具有自身的導師傳承、經典及社群身份。",
+            "sourceIds": [
+              "sikh"
+            ]
+          },
+          {
+            "misconception": "戴頭巾的人必定是穆斯林。",
+            "correction": "錫克及其他社群也有頭巾傳統；外觀不能確定宗教。",
+            "sourceIds": [
+              "sikhfaq"
+            ]
+          }
+        ],
+        "contentions": [
+          {
+            "title": "信仰標記與公共制度",
+            "text": "錫克社群組織的工作包括校園安全、就業與反歧視。比較制服或安全規則時，要檢視具體限制、可行調整與受影響者意見，不能把信仰標記預設為威脅。",
+            "sourceIds": [
+              "sikhmission"
+            ]
+          }
+        ],
+        "questions": [
+          "共同用餐如何把抽象的平等變成生活實踐？",
+          "制服一致與宗教自由發生衝突時，應蒐集哪些證據？"
+        ]
+      },
+      {
+        "id": "daoism",
+        "name": "道教",
+        "family": "中國形成的多元傳統",
+        "summary": "道教的形成不是單一時刻。老子與《道德經》的傳統敘事，和學者利用出土文本所重建的成書過程，必須分開看；早期思想可追溯至先秦，具組織的天師傳統則在東漢發展。「道」可指生成萬物的根本過程，無為也不只是甚麼都不做，而涉及不強行造作的生活及治理思考。《道德經》《莊子》只是龐大道教文獻的一部分；道教也有經典傳授、齋醮、祈福、修煉與神明信仰。正一、全真等傳統的組織、傳承及生活方式不一，與地方廟宇、民間信仰常有交集。這種交集不表示所有拜神者都是正式道士，也不表示儀式比哲學「不純正」。現代人接觸的氣功、太極或養生，有的連結道教，有的屬其他文化或世俗實踐。研究文化保存、觀光或健康宣稱時，應分清宗教意義、社群權利與需要另行驗證的醫療效果。",
+        "summarySourceIds": [
+          "dao",
+          "daoway",
+          "laozi",
+          "rivers"
+        ],
+        "origin": {
+          "text": "中國，先秦思想與東漢宗教組織等多重歷史線索。傳統把《道德經》歸於老子；作者、層次及成書年代仍有學術討論。",
+          "sourceIds": [
+            "laozi",
+            "dao"
+          ]
+        },
+        "history": [
+          {
+            "date": "先秦時期",
+            "text": "《老子》《莊子》等思想及文本逐步形成；不可把傳說年代當作定論。",
+            "sourceIds": [
+              "laozi",
+              "dao"
+            ]
+          },
+          {
+            "date": "東漢二世紀",
+            "text": "天師道等有組織的宗教運動出現。",
+            "sourceIds": [
+              "dao"
+            ]
+          },
+          {
+            "date": "四至五世紀",
+            "text": "上清、靈寶等經典與修行、儀式傳統發展。",
+            "sourceIds": [
+              "dao"
+            ]
+          },
+          {
+            "date": "十二世紀起",
+            "text": "全真傳統發展，後與正一等傳承並存。",
+            "sourceIds": [
+              "dao"
+            ]
+          }
+        ],
+        "features": [
+          {
+            "label": "經典與觀念",
+            "text": "《道德經》《莊子》與歷代道藏；道、自然、修養及多種神明信仰。",
+            "sourceIds": [
+              "dao",
+              "daoway",
+              "laozi"
+            ]
+          },
+          {
+            "label": "儀式與節慶",
+            "text": "齋醮、祈福及身心修煉；神誕與地方節慶因宮觀、神明及社區而異。",
+            "sourceIds": [
+              "dao",
+              "folk"
+            ]
+          }
+        ],
+        "diversity": {
+          "text": "正一、全真及地方傳承多樣；「哲學」與「宗教」有助分析，但不是自古完全分離的兩群人。",
+          "sourceIds": [
+            "dao",
+            "laozi"
+          ]
+        },
+        "misconceptions": [
+          {
+            "misconception": "道教就是《道德經》，沒有儀式與組織。",
+            "correction": "道教包含龐大經典、祭儀、神職與修行傳承。",
+            "sourceIds": [
+              "dao"
+            ]
+          },
+          {
+            "misconception": "無為就是懶惰或甚麼都不做。",
+            "correction": "它涉及避免強制造作、順應情勢等多種哲學詮釋。",
+            "sourceIds": [
+              "laozi"
+            ]
+          }
+        ],
+        "contentions": [
+          {
+            "title": "誰能代表「真正的道教」？",
+            "text": "海外移民、修行團體與不同地方儀式，可能對道教身份有不同界定。比較時應交代傳承與實際社群，避免把西方流行的養生或哲學版本當作唯一標準。",
+            "sourceIds": [
+              "dao"
+            ]
+          }
+        ],
+        "questions": [
+          "如果一座廟同時供奉不同傳統的神明，應如何描述而不強迫分類？",
+          "文本作者的歷史不確定性，會如何影響我們寫時間線？"
+        ]
+      },
+      {
+        "id": "shinto",
+        "name": "神道",
+        "family": "日本形成的多元傳統",
+        "summary": "神道與日本各地對kami的敬奉有關；kami可譯作神靈，但不必都想像成同一種超自然存在。它沒有單一創辦人，也難指定一個共同的創教年份。《古事記》與《日本書紀》保存神話及王權敘事；這些文本能說明人們如何理解世界，卻不能直接當作所有敘事事件的歷史證明。神社參拜、祓除、祭典與季節活動，連結地方社群、自然環境及祖先記憶。神道長期與佛教互相影響，很多人的實踐也跨越制度邊界。明治時代國家重新安排神社與佛教的關係，並把部分神道資源納入國家及帝國認同；二戰後制度又經重大改變。今日各神社、教派及參與者的立場不一，不能把一般參拜自動等同民族主義。研究戰爭追悼或政教關係時，必須指出具體場所、國家制度與歷史爭點，並區分社群信仰和政府行動。",
+        "summarySourceIds": [
+          "shinto",
+          "jinja",
+          "jinjahistory"
+        ],
+        "origin": {
+          "text": "日本的地方神靈敬奉經長期發展；古代起源沒有公認單一日期。近代神道的制度邊界也受政治歷史影響。",
+          "sourceIds": [
+            "shinto"
+          ]
+        },
+        "history": [
+          {
+            "date": "六世紀起",
+            "text": "佛教傳入後，kami敬奉與佛教持續交流。",
+            "sourceIds": [
+              "shinto"
+            ]
+          },
+          {
+            "date": "712年／720年",
+            "text": "《古事記》與《日本書紀》編成，保存神話及王權敘事。",
+            "sourceIds": [
+              "shinto"
+            ]
+          },
+          {
+            "date": "1868年起",
+            "text": "明治政府推動神佛分離並重整神社制度，逐步形成國家神道體制。",
+            "sourceIds": [
+              "shinto"
+            ]
+          },
+          {
+            "date": "1945–1946年",
+            "text": "戰後國家與神社關係改變；神社本廳於1946年成立。",
+            "sourceIds": [
+              "shinto",
+              "jinjahistory"
+            ]
+          }
+        ],
+        "features": [
+          {
+            "label": "文本與觀念",
+            "text": "《古事記》《日本書紀》、kami、潔淨與地方傳統；沒有所有神社統一的唯一信經。",
+            "sourceIds": [
+              "shinto",
+              "jinja"
+            ]
+          },
+          {
+            "label": "儀式與節慶",
+            "text": "參拜、祓除與祭典；具體活動與祭日依神社及地區而異。",
+            "sourceIds": [
+              "shinto",
+              "jinja"
+            ]
+          }
+        ],
+        "diversity": {
+          "text": "神社、教派及地方習俗並非同一組織；個人也可能參與佛教或其他傳統的儀式。",
+          "sourceIds": [
+            "shinto",
+            "rivers"
+          ]
+        },
+        "misconceptions": [
+          {
+            "misconception": "所有日本人都只信神道。",
+            "correction": "國籍不等於宗教，且宗教實踐可以重疊。",
+            "sourceIds": [
+              "shinto",
+              "rivers"
+            ]
+          },
+          {
+            "misconception": "神道從古至今完全沒有變化。",
+            "correction": "文本、地方祭祀、神佛關係及近代國家制度都曾改變。",
+            "sourceIds": [
+              "shinto"
+            ]
+          }
+        ],
+        "contentions": [
+          {
+            "title": "國家、宗教與戰爭記憶",
+            "text": "明治至二戰時期的神社治理與帝國認同有具體制度關係；戰後制度則不同。評估公共追悼活動應分辨歷史體制、當代主辦者與參與者個人，不把全部神道實踐等同戰爭政治。",
+            "sourceIds": [
+              "shinto"
+            ]
+          }
+        ],
+        "questions": [
+          "一個神話文本可以成為哪些歷史問題的證據？又不能證明甚麼？",
+          "國家主辦的祭典與地方社區祭典有何相同與不同？"
+        ]
+      },
+      {
+        "id": "folk-traditions",
+        "name": "民間信仰：以臺灣為例",
+        "family": "地方生活與跨傳統實踐",
+        "summary": "「民間信仰」是研究者常用的概括名稱，不是一個全世界統一的教會。以臺灣為例，祖先祭祀、土地公、媽祖與地方守護神等實踐，常與佛教、道教及家族生活相連。許多社群沒有唯一教主、共同正典或排他的入教手續，但這不代表它們沒有倫理、組織與歷史。廟宇、口述故事、碑刻、神像與祭典，都能成為研究材料。媽祖的生平及救難故事包括信仰傳說；歷史研究則追蹤福建沿海、移民網絡與不同廟宇如何傳播及重述她的故事。進香、遶境與地方節日，既有敬神意義，也連結互助、藝術與地方記憶。不同廟宇的規矩、政治關係及環保做法不能混為一談。近年宗教團體與政府合作減少祭典垃圾或燃燒排放，顯示傳統可以透過協商改變；是否參拜、如何參與，仍應尊重個人及社群選擇。",
+        "summarySourceIds": [
+          "folk",
+          "folkMuseum",
+          "mazu",
+          "green"
+        ],
+        "origin": {
+          "text": "此卡只以臺灣的部分漢人民間信仰為例；源流跨越古代中國、閩粵移民及在地發展，無共同創教年份，也不代表臺灣所有族群宗教。",
+          "sourceIds": [
+            "folk",
+            "folkMuseum"
+          ]
+        },
+        "history": [
+          {
+            "date": "約十世紀的傳統敘事",
+            "text": "媽祖故事將林默的生平置於福建湄洲；應標示為信仰傳承，勿把所有神蹟當歷史事件。",
+            "sourceIds": [
+              "mazu"
+            ]
+          },
+          {
+            "date": "明清以降",
+            "text": "移民與地方社會發展，使不同神明及廟宇網絡在臺灣扎根。",
+            "sourceIds": [
+              "folkMuseum"
+            ]
+          },
+          {
+            "date": "2009年",
+            "text": "「媽祖信俗」列入UNESCO人類非物質文化遺產代表作名錄；這是文化遺產紀錄，不是判定信仰真偽。",
+            "sourceIds": [
+              "mazu"
+            ]
+          },
+          {
+            "date": "2025年",
+            "text": "臺灣環境部與大甲鎮瀾宮合作推廣遶境減塑、低碳與環保祭祀。",
+            "sourceIds": [
+              "green"
+            ]
+          }
+        ],
+        "features": [
+          {
+            "label": "材料與觀念",
+            "text": "口傳、地方碑刻、廟宇及家族傳承；祖先、神明與社群互助，不必共享一本經典。",
+            "sourceIds": [
+              "folk",
+              "folkMuseum",
+              "mazu"
+            ]
+          },
+          {
+            "label": "儀式與節慶",
+            "text": "進香、遶境、祭祖及神誕；主神與地方歷史影響祭典安排。",
+            "sourceIds": [
+              "folk",
+              "mazu"
+            ]
+          }
+        ],
+        "diversity": {
+          "text": "本卡的臺灣案例不可代表所有「民間宗教」；地方、族群、家族及個人之間均有差異。",
+          "sourceIds": [
+            "folk",
+            "rivers"
+          ]
+        },
+        "misconceptions": [
+          {
+            "misconception": "沒有唯一經典，就不值得研究。",
+            "correction": "儀式、口傳、物件與社會關係同樣是宗教研究的重要材料。",
+            "sourceIds": [
+              "method",
+              "mazu"
+            ]
+          },
+          {
+            "misconception": "拜媽祖的人都只屬道教。",
+            "correction": "實踐與自我認同可能交疊，不應只靠主神替參與者指定宗教身份。",
+            "sourceIds": [
+              "folk"
+            ]
+          }
+        ],
+        "contentions": [
+          {
+            "title": "環保與文化延續",
+            "text": "2025年遶境環保合作提供一個具體案例：如何降低垃圾與燃燒影響，同時尊重儀式意義？應檢視措施效果及社群協商，而非把參與者貼上「落後」標籤。",
+            "sourceIds": [
+              "green"
+            ]
+          }
+        ],
+        "questions": [
+          "若受訪者自稱沒有宗教、卻參與祭祖，調查應如何記錄？",
+          "誰應參與決定祭典的環保改變？"
+        ]
+      },
+      {
+        "id": "indigenous-traditions",
+        "name": "原住民族宗教傳統",
+        "family": "多個民族的不同傳統，非單一宗教",
+        "summary": "「原住民族宗教」是一個方便但需要小心使用的總稱，不能取代各民族自己的名稱。不同民族對土地、祖先、神聖力量與社群責任的理解各不相同，也沒有共同創辦人、一本共同經典或統一節日。口述、歌舞、地方知識、物件及特定場所，可以承載重要教導；有些知識只向適當的社群成員開放。原住民族並非停留在過去，人們也可能在當代城市生活，或同時參與基督宗教等傳統。以北美為例，殖民與寄宿學校曾壓制語言、家庭連結及宗教實踐；這是特定政策與機構的歷史責任，不能歸罪於所有非原住民族或所有信徒。今日重要議題包括聖地使用、祖先遺骸及祭儀物件歸還、社群對研究及展示的同意。學習時應先問這是哪個民族、誰有權解釋、哪些內容可以公開；尊重知識邊界也是理解的一部分。",
+        "summarySourceIds": [
+          "native",
+          "boarding",
+          "care",
+          "undrip"
+        ],
+        "origin": {
+          "text": "各民族有各自起源敘事與歷史，不能指定全球共同創教年代。此卡的制度案例限於美國及聯合國框架，不能代表所有原住民族。",
+          "sourceIds": [
+            "native",
+            "undrip"
+          ]
+        },
+        "history": [
+          {
+            "date": "各民族自身歷史",
+            "text": "口述、土地與社群知識的年代及傳承方式各異；無全球共同起點。",
+            "sourceIds": [
+              "native"
+            ]
+          },
+          {
+            "date": "十九至二十世紀（北美案例）",
+            "text": "政府及教會辦理的寄宿學校，對語言、家庭及文化傳承造成破壞。",
+            "sourceIds": [
+              "boarding"
+            ]
+          },
+          {
+            "date": "1990年（美國）",
+            "text": "NAGPRA成法，建立特定遺骸及文化物件的歸還制度。",
+            "sourceIds": [
+              "nagpra"
+            ]
+          },
+          {
+            "date": "2007年／2024年",
+            "text": "聯合國通過原住民族權利宣言；美國2024年NAGPRA規章說明進一步強調照護與同意。",
+            "sourceIds": [
+              "undrip",
+              "care"
+            ]
+          }
+        ],
+        "features": [
+          {
+            "label": "知識與觀念",
+            "text": "以具名民族及其自身語言為起點，理解土地、親屬與神聖關係；不假設每族都有相同的「自然崇拜」。",
+            "sourceIds": [
+              "native"
+            ]
+          },
+          {
+            "label": "儀式與節慶",
+            "text": "由各民族具體傳統決定；本卡不提供可任意模仿的共同儀式，私人或受限制知識須先取得社群許可。",
+            "sourceIds": [
+              "native",
+              "undrip",
+              "care"
+            ]
+          }
+        ],
+        "diversity": {
+          "text": "民族內部也有世代、居住地與宗教選擇差異；口傳不等於沒有歷史，現代生活也不會取消原住民族身份。",
+          "sourceIds": [
+            "native"
+          ]
+        },
+        "misconceptions": [
+          {
+            "misconception": "所有原住民族都信同一種自然宗教。",
+            "correction": "不同民族的語言、宇宙觀、儀式與歷史不可互換。",
+            "sourceIds": [
+              "native"
+            ]
+          },
+          {
+            "misconception": "博物館擁有物件，就能隨意展示或研究。",
+            "correction": "法律及社群權利可能要求諮商與同意；美國NAGPRA有特定適用範圍，並非所有物件通用規則。",
+            "sourceIds": [
+              "care"
+            ]
+          }
+        ],
+        "contentions": [
+          {
+            "title": "誰決定遺骸與祭儀物件的未來？",
+            "text": "美國NAGPRA的2024年照護指引要求，在適用範圍內的展示、研究或接觸前取得相關同意。這讓博物館的研究需求、社群權威與修復殖民傷害成為可具體討論的制度問題。",
+            "sourceIds": [
+              "care",
+              "nagpra"
+            ]
+          }
+        ],
+        "questions": [
+          "研究者知道一項神聖知識，就代表可以公開它嗎？",
+          "聖地若同時是觀光或開發地點，哪些人的意見最容易被忽略？"
+        ]
+      }
+    ],
+    "glossary": [
+      {
+        "term": "宗教素養",
+        "definition": "能把宗教放回具體歷史與社會情境，辨識內部差異、變遷與權力關係，而不只背誦經典及節慶。",
+        "sourceIds": [
+          "method"
+        ]
+      },
+      {
+        "term": "傳統敘事／歷史研究",
+        "definition": "前者說明信仰社群如何理解自身；後者用文本、物件及其他證據提出可討論的歷史解釋。兩者的問題與方法不同。",
+        "sourceIds": [
+          "method",
+          "laozi"
+        ]
+      },
+      {
+        "term": "正典",
+        "definition": "一個社群承認具有特別宗教權威的文本範圍；不同社群的範圍不一定一致。",
+        "sourceIds": [
+          "chr",
+          "veda"
+        ]
+      },
+      {
+        "term": "宗派／傳承",
+        "definition": "共享較大傳統的群體，仍可能有不同權威、儀式與教義；名稱相同也不表示每個人完全一致。",
+        "sourceIds": [
+          "method",
+          "rivers"
+        ]
+      },
+      {
+        "term": "離散（diaspora）",
+        "definition": "群體離開或生活在歷史故土之外所形成的網絡；遷徙可能出於自願，也可能受迫。",
+        "sourceIds": [
+          "jew",
+          "hin"
+        ]
+      },
+      {
+        "term": "業（karma）",
+        "definition": "行為及其後果的觀念；不同南亞宗教有不同解釋，不能直接用來推定受苦者「應得」。",
+        "sourceIds": [
+          "hin",
+          "dharma"
+        ]
+      },
+      {
+        "term": "法（dharma）",
+        "definition": "依脈絡可指教導、責任或秩序；佛教與印度教中的意思不能直接互換。",
+        "sourceIds": [
+          "hin",
+          "bud"
+        ]
+      },
+      {
+        "term": "沙里亞／fiqh",
+        "definition": "前者指宗教指引與規範，後者指人對規範的法學理解；兩者也不同於某國的成文法。",
+        "sourceIds": [
+          "sharia"
+        ]
+      },
+      {
+        "term": "皈依／改宗",
+        "definition": "採納或加入某一宗教傳統；所需儀式、社群承認及個人認同因傳統而異。",
+        "sourceIds": [
+          "jewidentity",
+          "isl",
+          "sikhfaq"
+        ]
+      },
+      {
+        "term": "神聖知識與同意",
+        "definition": "有些社群知識或祭儀物件不宜自由公開、研究或展示；須了解適用規則並尊重有權決定的社群。",
+        "sourceIds": [
+          "undrip",
+          "care"
+        ]
+      },
+      {
+        "term": "無宗教歸屬",
+        "definition": "調查中沒有認同特定宗教的分類，可能包含無神論者、不可知論者及無特定宗教者；不能直接推定沒有儀式或靈性觀念。",
+        "sourceIds": [
+          "nones"
+        ]
+      },
+      {
+        "term": "宗教與良心自由",
+        "definition": "包括持有、改變宗教或信念的自由；教育比較應保障學生不必宣告自己的信仰或參與宗教實踐。",
+        "sourceIds": [
+          "udhr",
+          "method"
+        ]
+      }
+    ],
+    "nonreligion": {
+      "id": "nonreligion",
+      "name": "概念卡：無宗教歸屬，不是另一個單一宗教",
+      "text": "無宗教歸屬是調查分類，不是一個擁有共同教主或經典的組織。無神論通常涉及不信或否定神的存在；不可知論涉及對是否能知道的立場，兩詞在日常及哲學用法中也有差異。沒有宗教歸屬的人仍可能重視儀式、靈性、祖先或人文倫理；也不能假定他們比信教者更理性或更缺乏道德。先看調查到底問「身份」「信念」還是「實踐」，再解讀答案。",
+      "sourceIds": [
+        "nones",
+        "atheism",
+        "humanism"
+      ],
+      "questions": [
+        "一份問卷若只能選一個宗教，會漏掉哪些人的經驗？",
+        "無宗教歸屬與不相信神，為何不能當作完全相同的分類？"
+      ]
+    },
+    "sources": [
+      {
+        "id": "method",
+        "title": "Harvard：What is Religious Literacy?",
+        "url": "https://rpl.hds.harvard.edu/what-we-do/our-approach/what-religious-literacy",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard",
+        "producer": "Harvard"
+      },
+      {
+        "id": "rivers",
+        "title": "Harvard：Rivers of Faith",
+        "url": "https://pluralism.org/rivers-of-faith",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard",
+        "producer": "Harvard"
+      },
+      {
+        "id": "chr",
+        "title": "Harvard Pluralism Project：基督宗教導論",
+        "url": "https://pluralism.org/introduction-christianity",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "chrhist",
+        "title": "Harvard Pluralism Project：基督宗教歷史",
+        "url": "https://pluralism.org/christianity",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "orth",
+        "title": "Harvard Pluralism Project：東方正教會",
+        "url": "https://pluralism.org/orthodox-christian-churches",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "cath",
+        "title": "Harvard Pluralism Project：天主教會及其共融",
+        "url": "https://pluralism.org/the-roman-catholic-church-and-the-catholic-communion",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "prot",
+        "title": "Harvard Pluralism Project：新教運動",
+        "url": "https://pluralism.org/the-protestant-movement",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "isl",
+        "title": "Harvard Pluralism Project：伊斯蘭導論",
+        "url": "https://pluralism.org/introduction-to-islam",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "islhist",
+        "title": "Harvard Pluralism Project：伊斯蘭歷史",
+        "url": "https://pluralism.org/islam",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "sunni",
+        "title": "Harvard Pluralism Project：遜尼與什葉詮釋",
+        "url": "https://pluralism.org/sunni-and-shi%E2%80%99i-interpretations",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "sharia",
+        "title": "Harvard Pluralism Project：沙里亞及法學",
+        "url": "https://pluralism.org/shari%E2%80%99ah-following-the-straight-path",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "hin",
+        "title": "Harvard Pluralism Project：印度教導論",
+        "url": "https://pluralism.org/introduction-to-hinduism",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "hinhist",
+        "title": "Harvard Pluralism Project：印度教歷史",
+        "url": "https://pluralism.org/hinduism",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "veda",
+        "title": "Harvard Pluralism Project：吠陀及權威",
+        "url": "https://pluralism.org/veda-scripture-and-authority",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "dharma",
+        "title": "Harvard Pluralism Project：Dharma 與社會秩序",
+        "url": "https://pluralism.org/dharma-the-social-order",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "diwali",
+        "title": "Harvard Pluralism Project：排燈節",
+        "url": "https://pluralism.org/divali",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "bud",
+        "title": "Harvard Pluralism Project：佛教導論",
+        "url": "https://pluralism.org/introduction-to-buddhism",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "budspread",
+        "title": "Harvard Pluralism Project：佛教傳播",
+        "url": "https://pluralism.org/the-expansion-of-buddhism",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "budwomen",
+        "title": "Harvard Pluralism Project：美國佛教中的女性",
+        "url": "https://pluralism.org/women-in-american-buddhism",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "vesak",
+        "title": "Harvard Pluralism Project：佛誕",
+        "url": "https://pluralism.org/buddha%E2%80%99s-birthday-0",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "jew",
+        "title": "Harvard Pluralism Project：猶太教導論",
+        "url": "https://pluralism.org/introduction-to-judaism",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "jewpost",
+        "title": "Harvard Pluralism Project：後聖經時代猶太教",
+        "url": "https://pluralism.org/post-biblical-religion",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "jewidentity",
+        "title": "Harvard Pluralism Project：誰是猶太人？",
+        "url": "https://pluralism.org/who-is-a-jew",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "sikh",
+        "title": "Harvard Pluralism Project：錫克教導論",
+        "url": "https://pluralism.org/introduction-to-sikhism",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "sikhhist",
+        "title": "Harvard Pluralism Project：錫克教歷史",
+        "url": "https://pluralism.org/sikhism",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "dao",
+        "title": "Harvard Pluralism Project：道教歷史",
+        "url": "https://pluralism.org/daoism",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "daoway",
+        "title": "Harvard Pluralism Project：道及其力量",
+        "url": "https://pluralism.org/the-way-and-its-power",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "shinto",
+        "title": "Harvard Pluralism Project：神道歷史",
+        "url": "https://pluralism.org/shinto",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "humanism",
+        "title": "Harvard Pluralism Project：人文主義",
+        "url": "https://pluralism.org/humanism",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "canon",
+        "title": "教廷：《天主教法典》1024條",
+        "url": "https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann998-1165_en.html",
+        "type": "宗教機構自述／現行規範",
+        "checkedAt": "2026-10-04",
+        "publisher": "教廷",
+        "producer": "教廷"
+      },
+      {
+        "id": "anglican",
+        "title": "英格蘭教會：首位女性主教於2015年祝聖",
+        "url": "https://www.churchofengland.org/media/press-releases/rt-revd-libby-lane-consecrated-york-minster",
+        "type": "宗教機構自述／歷史紀錄",
+        "checkedAt": "2026-10-04",
+        "publisher": "英格蘭教會",
+        "producer": "英格蘭教會"
+      },
+      {
+        "id": "sikhbelief",
+        "title": "Sikh Coalition：Beliefs",
+        "url": "https://www.sikhcoalition.org/about-sikhs/beliefs/",
+        "type": "信仰社群倡議組織自述",
+        "checkedAt": "2026-10-04",
+        "publisher": "Sikh Coalition",
+        "producer": "Sikh Coalition"
+      },
+      {
+        "id": "sikhfaq",
+        "title": "Sikh Coalition：FAQ",
+        "url": "https://www.sikhcoalition.org/about-sikhs/faq/",
+        "type": "信仰社群倡議組織自述",
+        "checkedAt": "2026-10-04",
+        "publisher": "Sikh Coalition",
+        "producer": "Sikh Coalition"
+      },
+      {
+        "id": "sikhmission",
+        "title": "Sikh Coalition：Mission and Values",
+        "url": "https://www.sikhcoalition.org/about-us/mission-values/",
+        "type": "信仰社群倡議組織自述",
+        "checkedAt": "2026-10-04",
+        "publisher": "Sikh Coalition",
+        "producer": "Sikh Coalition"
+      },
+      {
+        "id": "laozi",
+        "title": "Stanford Encyclopedia of Philosophy：Laozi",
+        "url": "https://plato.stanford.edu/entries/laozi/",
+        "type": "學術百科",
+        "checkedAt": "2026-10-04",
+        "publisher": "Stanford Encyclopedia of Philosophy",
+        "producer": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "id": "jinja",
+        "title": "神社本廳：What is Shinto?",
+        "url": "https://www.jinjahoncho.or.jp/en/shinto/",
+        "type": "宗教機構自述",
+        "checkedAt": "2026-10-04",
+        "publisher": "神社本廳",
+        "producer": "神社本廳"
+      },
+      {
+        "id": "jinjahistory",
+        "title": "神社本廳：組織介紹",
+        "url": "https://www.jinjahoncho.or.jp/en/",
+        "type": "宗教機構自述",
+        "checkedAt": "2026-10-04",
+        "publisher": "神社本廳",
+        "producer": "神社本廳"
+      },
+      {
+        "id": "mazu",
+        "title": "UNESCO：Mazu belief and customs",
+        "url": "https://ich.unesco.org/en/RL/mazu-belief-and-customs-00227",
+        "type": "國際組織文化遺產紀錄；含申報社群敘事",
+        "checkedAt": "2026-10-04",
+        "publisher": "UNESCO",
+        "producer": "UNESCO"
+      },
+      {
+        "id": "folk",
+        "title": "行政院：臺灣的民間信仰",
+        "url": "https://www.ey.gov.tw/state/D00B53C98CD4F08F/ebdc93b1-e9df-4bf4-8bfe-c6374a0f811f",
+        "type": "政府文化介紹",
+        "checkedAt": "2026-10-04",
+        "publisher": "行政院",
+        "producer": "行政院"
+      },
+      {
+        "id": "folkMuseum",
+        "title": "世界宗教博物館：台灣民間信仰",
+        "url": "https://www.mwr.org.tw/tw_religion/introduction/tw07.htm",
+        "type": "博物館／宗教文化介紹",
+        "checkedAt": "2026-10-04",
+        "publisher": "世界宗教博物館",
+        "producer": "世界宗教博物館"
+      },
+      {
+        "id": "green",
+        "title": "環境部：2025媽祖遶境環保合作",
+        "url": "https://sup.moenv.gov.tw/news/3ba5e229-ea65-4937-ab1e-3751ac8c03b5",
+        "type": "政府政策及活動紀錄",
+        "checkedAt": "2026-10-04",
+        "publisher": "環境部",
+        "producer": "環境部"
+      },
+      {
+        "id": "native",
+        "title": "Smithsonian NMAI：Essential Understandings",
+        "url": "https://americanindian.si.edu/nk360/about/essential-understandings",
+        "type": "博物館；與原住民族社群合作",
+        "checkedAt": "2026-10-04",
+        "publisher": "Smithsonian NMAI",
+        "producer": "Smithsonian NMAI"
+      },
+      {
+        "id": "boarding",
+        "title": "Smithsonian NMAI：Boarding Schools",
+        "url": "https://americanindian.si.edu/nk360/code-talkers/boarding-schools/",
+        "type": "博物館；原住民族口述歷史",
+        "checkedAt": "2026-10-04",
+        "publisher": "Smithsonian NMAI",
+        "producer": "Smithsonian NMAI"
+      },
+      {
+        "id": "nagpra",
+        "title": "美國國家公園署：NAGPRA法案歷史",
+        "url": "https://www.nps.gov/subjects/nagpra/the-law.htm",
+        "type": "政府／法律原始資料",
+        "checkedAt": "2026-10-04",
+        "publisher": "美國國家公園署",
+        "producer": "美國國家公園署"
+      },
+      {
+        "id": "care",
+        "title": "美國國家公園署：2024 Duty of Care FAQ",
+        "url": "https://www.nps.gov/subjects/nagpra/upload/Duty-of-Care-FAQ.pdf",
+        "type": "政府／規章說明",
+        "checkedAt": "2026-10-04",
+        "publisher": "美國國家公園署",
+        "producer": "美國國家公園署"
+      },
+      {
+        "id": "undrip",
+        "title": "聯合國：2007原住民族權利宣言",
+        "url": "https://digitallibrary.un.org/record/638370?v=pdf",
+        "type": "國際組織／原始文件",
+        "checkedAt": "2026-10-04",
+        "publisher": "聯合國",
+        "producer": "聯合國"
+      },
+      {
+        "id": "udhr",
+        "title": "聯合國：《世界人權宣言》第18條",
+        "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+        "type": "國際組織／原始文件",
+        "checkedAt": "2026-10-04",
+        "publisher": "聯合國",
+        "producer": "聯合國"
+      },
+      {
+        "id": "nones",
+        "title": "Pew Research Center：Who are the nones?",
+        "url": "https://www.pewresearch.org/religious-landscape-study/2024/01/24/who-are-the-nones-how-are-they-defined/",
+        "type": "獨立調查研究機構",
+        "checkedAt": "2026-10-04",
+        "publisher": "Pew Research Center",
+        "producer": "Pew Research Center"
+      },
+      {
+        "id": "atheism",
+        "title": "Stanford Encyclopedia of Philosophy：Atheism and Agnosticism",
+        "url": "https://plato.stanford.edu/archives/spr2024/entries/atheism-agnosticism/",
+        "type": "學術百科",
+        "checkedAt": "2026-10-04",
+        "publisher": "Stanford Encyclopedia of Philosophy",
+        "producer": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "id": "chr-life",
+        "title": "Harvard：耶穌的生平與教導",
+        "url": "https://pluralism.org/life-and-teachings-of-jesus",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "chr-resurrection",
+        "title": "Harvard：耶穌的死亡與復活",
+        "url": "https://pluralism.org/death-and-resurrection-of-jesus",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "isl-muhammad",
+        "title": "Harvard：穆罕默德與早期社群",
+        "url": "https://pluralism.org/muhammad-the-messenger-of-god",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "bud-path",
+        "title": "Harvard：覺醒之道",
+        "url": "https://pluralism.org/the-path-of-awakening",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "jew-monotheism",
+        "title": "Harvard：聖經一神信仰的歷史背景",
+        "url": "https://pluralism.org/god-biblical-monotheism",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "jew-peoplehood",
+        "title": "Harvard：上帝、妥拉與以色列",
+        "url": "https://pluralism.org/god-torah-and-israel",
+        "type": "大學宗教研究",
+        "checkedAt": "2026-10-04",
+        "publisher": "Harvard Pluralism Project",
+        "producer": "Harvard Pluralism Project"
+      },
+      {
+        "id": "buddha-sep",
+        "title": "Stanford Encyclopedia of Philosophy：Buddha",
+        "url": "https://plato.stanford.edu/entries/buddha/",
+        "type": "學術百科",
+        "checkedAt": "2026-10-04",
+        "publisher": "Stanford Encyclopedia of Philosophy",
+        "producer": "Stanford Encyclopedia of Philosophy",
+        "publishedDate": "2023-03-06",
+        "note": "首次發布2011-02-17，2023-03-06實質修訂。"
+      }
+    ]
+  },
+  "demographics": {
+    "meta": {
+      "title": "全球宗教認同：同一年、同一套分類的比較",
+      "dataYear": 2020,
+      "publishedDate": "2025-06-09",
+      "datasetUpdatedDate": "2026-02-12",
+      "accessedDate": "2026-10-04",
+      "producer": "Pew Research Center",
+      "collaborator": "Center for Advanced Studies of Population and Religion (CASPAR), Krakow University of Economics",
+      "populationBase": "United Nations World Population Prospects, 2024 revision",
+      "estimateType": "估計：綜合人口普查、調查、登記資料與人口推估；不是2026年的即時人數。",
+      "coverage": "201個國家與地區；至少在2010或2020年人口達10萬，合計涵蓋全球99.98%人口。",
+      "displayNote": "百分比顯示一位小數；小於0.1%顯示<0.1%，不是0。人數沿用官方已舍入值；總和可能因舍入不等於100%。圖形可用pct計算位置，但不要顯示多位小數製造精確假象。",
+      "versionNote": "2026-02-12更新新增宗教多元性指標，並非把宗教人口的資料年更新為2026年。"
+    },
+    "sources": [
+      {
+        "id": "pew-composition",
+        "title": "Religious Composition by Country, 2010–2020",
+        "producer": "Pew Research Center",
+        "publishedDate": "2025-06-09",
+        "updatedDate": "2026-02-12",
+        "url": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+        "downloadUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip"
+      },
+      {
+        "id": "pew-method",
+        "title": "Methodology: How the Global Religious Landscape Changed",
+        "producer": "Pew Research Center",
+        "publishedDate": "2025-06-09",
+        "url": "https://www.pewresearch.org/religion/2025/06/09/global-religious-change-methodology/"
+      },
+      {
+        "id": "pew-report",
+        "title": "How the Global Religious Landscape Changed from 2010 to 2020",
+        "producer": "Pew Research Center",
+        "publishedDate": "2025-06-09",
+        "url": "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/"
+      },
+      {
+        "id": "pew-sources",
+        "title": "Appendix A: Sources",
+        "producer": "Pew Research Center",
+        "publishedDate": "2025-06-09",
+        "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/PR_2025.06.09_global-religious-change_appendix-a.pdf"
+      },
+      {
+        "id": "pew-china",
+        "title": "Measuring Religion in China",
+        "producer": "Pew Research Center",
+        "publishedDate": "2023-08-30",
+        "url": "https://www.pewresearch.org/religion/2023/08/30/measuring-religion-in-china/"
+      }
+    ],
+    "categories": [
+      {
+        "id": "christian",
+        "label": "基督宗教",
+        "sourceColumn": "Christians"
+      },
+      {
+        "id": "muslim",
+        "label": "伊斯蘭教",
+        "sourceColumn": "Muslims"
+      },
+      {
+        "id": "unaffiliated",
+        "label": "無宗教歸屬",
+        "sourceColumn": "Religiously_unaffiliated"
+      },
+      {
+        "id": "hindu",
+        "label": "印度教",
+        "sourceColumn": "Hindus"
+      },
+      {
+        "id": "buddhist",
+        "label": "佛教",
+        "sourceColumn": "Buddhists"
+      },
+      {
+        "id": "other",
+        "label": "其他宗教",
+        "sourceColumn": "Other_religions"
+      },
+      {
+        "id": "jewish",
+        "label": "猶太教",
+        "sourceColumn": "Jews"
+      }
+    ],
+    "global": {
+      "label": "全球",
+      "populationDisplay": "7,885,810,000",
+      "dataYear": 2020,
+      "values": [
+        {
+          "id": "christian",
+          "label": "基督宗教",
+          "pct": 28.77144623,
+          "pctDisplay": "28.8%",
+          "countDisplay": "2,268,860,000",
+          "sourceId": "pew-composition",
+          "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+          "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+          "dataYear": 2020,
+          "publishedDate": "2025-06-09"
+        },
+        {
+          "id": "muslim",
+          "label": "伊斯蘭教",
+          "pct": 25.64849091,
+          "pctDisplay": "25.6%",
+          "countDisplay": "2,022,590,000",
+          "sourceId": "pew-composition",
+          "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+          "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+          "dataYear": 2020,
+          "publishedDate": "2025-06-09"
+        },
+        {
+          "id": "unaffiliated",
+          "label": "無宗教歸屬",
+          "pct": 24.16189003,
+          "pctDisplay": "24.2%",
+          "countDisplay": "1,905,360,000",
+          "sourceId": "pew-composition",
+          "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+          "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+          "dataYear": 2020,
+          "publishedDate": "2025-06-09"
+        },
+        {
+          "id": "hindu",
+          "label": "印度教",
+          "pct": 14.93646812,
+          "pctDisplay": "14.9%",
+          "countDisplay": "1,177,860,000",
+          "sourceId": "pew-composition",
+          "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+          "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+          "dataYear": 2020,
+          "publishedDate": "2025-06-09"
+        },
+        {
+          "id": "buddhist",
+          "label": "佛教",
+          "pct": 4.111000538,
+          "pctDisplay": "4.1%",
+          "countDisplay": "324,190,000",
+          "sourceId": "pew-composition",
+          "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+          "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+          "dataYear": 2020,
+          "publishedDate": "2025-06-09"
+        },
+        {
+          "id": "other",
+          "label": "其他宗教",
+          "pct": 2.183285475,
+          "pctDisplay": "2.2%",
+          "countDisplay": "172,170,000",
+          "sourceId": "pew-composition",
+          "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+          "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+          "dataYear": 2020,
+          "publishedDate": "2025-06-09"
+        },
+        {
+          "id": "jewish",
+          "label": "猶太教",
+          "pct": 0.187420741,
+          "pctDisplay": "0.2%",
+          "countDisplay": "14,780,000",
+          "sourceId": "pew-composition",
+          "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+          "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+          "dataYear": 2020,
+          "publishedDate": "2025-06-09"
+        }
+      ],
+      "previous2010": [
+        {
+          "id": "christian",
+          "label": "基督宗教",
+          "pct": 30.58475113,
+          "pctDisplay": "30.6%",
+          "countDisplay": "2,147,230,000",
+          "sourceId": "pew-composition",
+          "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+          "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+          "dataYear": 2010,
+          "publishedDate": "2025-06-09"
+        },
+        {
+          "id": "muslim",
+          "label": "伊斯蘭教",
+          "pct": 23.86979103,
+          "pctDisplay": "23.9%",
+          "countDisplay": "1,675,800,000",
+          "sourceId": "pew-composition",
+          "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+          "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+          "dataYear": 2010,
+          "publishedDate": "2025-06-09"
+        },
+        {
+          "id": "unaffiliated",
+          "label": "無宗教歸屬",
+          "pct": 23.29216576,
+          "pctDisplay": "23.3%",
+          "countDisplay": "1,635,250,000",
+          "sourceId": "pew-composition",
+          "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+          "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+          "dataYear": 2010,
+          "publishedDate": "2025-06-09"
+        },
+        {
+          "id": "hindu",
+          "label": "印度教",
+          "pct": 14.97799492,
+          "pctDisplay": "15.0%",
+          "countDisplay": "1,051,540,000",
+          "sourceId": "pew-composition",
+          "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+          "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+          "dataYear": 2010,
+          "publishedDate": "2025-06-09"
+        },
+        {
+          "id": "buddhist",
+          "label": "佛教",
+          "pct": 4.88203001,
+          "pctDisplay": "4.9%",
+          "countDisplay": "342,750,000",
+          "sourceId": "pew-composition",
+          "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+          "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+          "dataYear": 2010,
+          "publishedDate": "2025-06-09"
+        },
+        {
+          "id": "other",
+          "label": "其他宗教",
+          "pct": 2.195080042,
+          "pctDisplay": "2.2%",
+          "countDisplay": "154,110,000",
+          "sourceId": "pew-composition",
+          "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+          "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+          "dataYear": 2010,
+          "publishedDate": "2025-06-09"
+        },
+        {
+          "id": "jewish",
+          "label": "猶太教",
+          "pct": 0.198186591,
+          "pctDisplay": "0.2%",
+          "countDisplay": "13,910,000",
+          "sourceId": "pew-composition",
+          "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+          "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+          "dataYear": 2010,
+          "publishedDate": "2025-06-09"
+        }
+      ]
+    },
+    "countries": [
+      {
+        "name": "印度",
+        "nameEn": "India",
+        "countryCode": "356",
+        "populationDisplay": "1,402,620,000",
+        "dataYear": 2020,
+        "values": [
+          {
+            "id": "christian",
+            "label": "基督宗教",
+            "pct": 2.214620113,
+            "pctDisplay": "2.2%",
+            "countDisplay": "31,060,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "muslim",
+            "label": "伊斯蘭教",
+            "pct": 15.19001579,
+            "pctDisplay": "15.2%",
+            "countDisplay": "213,060,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "unaffiliated",
+            "label": "無宗教歸屬",
+            "pct": 0.003259997,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "50,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "hindu",
+            "label": "印度教",
+            "pct": 79.36618805,
+            "pctDisplay": "79.4%",
+            "countDisplay": "1,113,200,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "buddhist",
+            "label": "佛教",
+            "pct": 0.680662572,
+            "pctDisplay": "0.7%",
+            "countDisplay": "9,550,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "other",
+            "label": "其他宗教",
+            "pct": 2.544952393,
+            "pctDisplay": "2.5%",
+            "countDisplay": "35,700,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "jewish",
+            "label": "猶太教",
+            "pct": 0.000301379,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "<10,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          }
+        ],
+        "teachingPrompt": "人口多，少數比例也可能代表龐大人數。",
+        "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+        "publishedDate": "2025-06-09"
+      },
+      {
+        "name": "中國",
+        "nameEn": "China",
+        "countryCode": "156",
+        "populationDisplay": "1,426,110,000",
+        "dataYear": 2020,
+        "values": [
+          {
+            "id": "christian",
+            "label": "基督宗教",
+            "pct": 1.78475678,
+            "pctDisplay": "1.8%",
+            "countDisplay": "25,450,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "muslim",
+            "label": "伊斯蘭教",
+            "pct": 1.821801543,
+            "pctDisplay": "1.8%",
+            "countDisplay": "25,980,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "unaffiliated",
+            "label": "無宗教歸屬",
+            "pct": 89.6231308,
+            "pctDisplay": "89.6%",
+            "countDisplay": "1,278,120,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "hindu",
+            "label": "印度教",
+            "pct": 0.00204179,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "30,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "buddhist",
+            "label": "佛教",
+            "pct": 3.742975712,
+            "pctDisplay": "3.7%",
+            "countDisplay": "53,380,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "other",
+            "label": "其他宗教",
+            "pct": 3.025080681,
+            "pctDisplay": "3.0%",
+            "countDisplay": "43,140,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "jewish",
+            "label": "猶太教",
+            "pct": 0.000213027,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "<10,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          }
+        ],
+        "teachingPrompt": "無宗教歸屬不可直接解讀為沒有宗教或靈性實踐。",
+        "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+        "publishedDate": "2025-06-09"
+      },
+      {
+        "name": "美國",
+        "nameEn": "United States",
+        "countryCode": "840",
+        "populationDisplay": "339,440,000",
+        "dataYear": 2020,
+        "values": [
+          {
+            "id": "christian",
+            "label": "基督宗教",
+            "pct": 64.01000214,
+            "pctDisplay": "64.0%",
+            "countDisplay": "217,270,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "muslim",
+            "label": "伊斯蘭教",
+            "pct": 1.192380905,
+            "pctDisplay": "1.2%",
+            "countDisplay": "4,050,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "unaffiliated",
+            "label": "無宗教歸屬",
+            "pct": 29.72999954,
+            "pctDisplay": "29.7%",
+            "countDisplay": "100,910,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "hindu",
+            "label": "印度教",
+            "pct": 0.894285679,
+            "pctDisplay": "0.9%",
+            "countDisplay": "3,040,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "buddhist",
+            "label": "佛教",
+            "pct": 1.29174602,
+            "pctDisplay": "1.3%",
+            "countDisplay": "4,380,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "other",
+            "label": "其他宗教",
+            "pct": 1.192380905,
+            "pctDisplay": "1.2%",
+            "countDisplay": "4,050,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "jewish",
+            "label": "猶太教",
+            "pct": 1.689206362,
+            "pctDisplay": "1.7%",
+            "countDisplay": "5,730,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          }
+        ],
+        "teachingPrompt": "留意無宗教歸屬及不同少數宗教。",
+        "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+        "publishedDate": "2025-06-09"
+      },
+      {
+        "name": "印尼",
+        "nameEn": "Indonesia",
+        "countryCode": "360",
+        "populationDisplay": "274,810,000",
+        "dataYear": 2020,
+        "values": [
+          {
+            "id": "christian",
+            "label": "基督宗教",
+            "pct": 10.26230717,
+            "pctDisplay": "10.3%",
+            "countDisplay": "28,200,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "muslim",
+            "label": "伊斯蘭教",
+            "pct": 86.96417999,
+            "pctDisplay": "87.0%",
+            "countDisplay": "238,990,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "unaffiliated",
+            "label": "無宗教歸屬",
+            "pct": 0.092005208,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "250,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "hindu",
+            "label": "印度教",
+            "pct": 1.584296703,
+            "pctDisplay": "1.6%",
+            "countDisplay": "4,350,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "buddhist",
+            "label": "佛教",
+            "pct": 0.677527726,
+            "pctDisplay": "0.7%",
+            "countDisplay": "1,860,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "other",
+            "label": "其他宗教",
+            "pct": 0.418626547,
+            "pctDisplay": "0.4%",
+            "countDisplay": "1,150,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "jewish",
+            "label": "猶太教",
+            "pct": 0.001059009,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "<10,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          }
+        ],
+        "teachingPrompt": "觀察穆斯林多數與其他群體並存。",
+        "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+        "publishedDate": "2025-06-09"
+      },
+      {
+        "name": "巴基斯坦",
+        "nameEn": "Pakistan",
+        "countryCode": "586",
+        "populationDisplay": "235,000,000",
+        "dataYear": 2020,
+        "values": [
+          {
+            "id": "christian",
+            "label": "基督宗教",
+            "pct": 1.271847963,
+            "pctDisplay": "1.3%",
+            "countDisplay": "2,990,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "muslim",
+            "label": "伊斯蘭教",
+            "pct": 96.54430389,
+            "pctDisplay": "96.5%",
+            "countDisplay": "226,880,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "unaffiliated",
+            "label": "無宗教歸屬",
+            "pct": 0.012734034,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "30,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "hindu",
+            "label": "印度教",
+            "pct": 2.139701843,
+            "pctDisplay": "2.1%",
+            "countDisplay": "5,030,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "buddhist",
+            "label": "佛教",
+            "pct": 0.010499283,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "20,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "other",
+            "label": "其他宗教",
+            "pct": 0.020821461,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "50,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "jewish",
+            "label": "猶太教",
+            "pct": 9.09027e-05,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "<10,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          }
+        ],
+        "teachingPrompt": "圓餅圖不容易呈現很小的宗教群體。",
+        "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+        "publishedDate": "2025-06-09"
+      },
+      {
+        "name": "奈及利亞",
+        "nameEn": "Nigeria",
+        "countryCode": "566",
+        "populationDisplay": "214,000,000",
+        "dataYear": 2020,
+        "values": [
+          {
+            "id": "christian",
+            "label": "基督宗教",
+            "pct": 43.35137558,
+            "pctDisplay": "43.4%",
+            "countDisplay": "92,770,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "muslim",
+            "label": "伊斯蘭教",
+            "pct": 56.06650925,
+            "pctDisplay": "56.1%",
+            "countDisplay": "119,980,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "unaffiliated",
+            "label": "無宗教歸屬",
+            "pct": 0.379311502,
+            "pctDisplay": "0.4%",
+            "countDisplay": "810,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "hindu",
+            "label": "印度教",
+            "pct": 0.000144004,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "<10,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "buddhist",
+            "label": "佛教",
+            "pct": 0.000480014,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "<10,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "other",
+            "label": "其他宗教",
+            "pct": 0.202133209,
+            "pctDisplay": "0.2%",
+            "countDisplay": "430,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "jewish",
+            "label": "猶太教",
+            "pct": 4.80014e-05,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "<10,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          }
+        ],
+        "teachingPrompt": "比較基督宗教和伊斯蘭教兩大類。",
+        "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+        "publishedDate": "2025-06-09"
+      },
+      {
+        "name": "巴西",
+        "nameEn": "Brazil",
+        "countryCode": "76",
+        "populationDisplay": "208,660,000",
+        "dataYear": 2020,
+        "values": [
+          {
+            "id": "christian",
+            "label": "基督宗教",
+            "pct": 80.65506744,
+            "pctDisplay": "80.7%",
+            "countDisplay": "168,300,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "muslim",
+            "label": "伊斯蘭教",
+            "pct": 0.017701255,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "40,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "unaffiliated",
+            "label": "無宗教歸屬",
+            "pct": 13.47328377,
+            "pctDisplay": "13.5%",
+            "countDisplay": "28,110,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "hindu",
+            "label": "印度教",
+            "pct": 0.000770417,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "<10,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "buddhist",
+            "label": "佛教",
+            "pct": 0.103137359,
+            "pctDisplay": "0.1%",
+            "countDisplay": "220,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "other",
+            "label": "其他宗教",
+            "pct": 5.705881596,
+            "pctDisplay": "5.7%",
+            "countDisplay": "11,910,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "jewish",
+            "label": "猶太教",
+            "pct": 0.044158481,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "90,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          }
+        ],
+        "teachingPrompt": "「其他宗教」合併多種不同傳統，不能當成單一宗教。",
+        "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+        "publishedDate": "2025-06-09"
+      },
+      {
+        "name": "日本",
+        "nameEn": "Japan",
+        "countryCode": "392",
+        "populationDisplay": "126,300,000",
+        "dataYear": 2020,
+        "values": [
+          {
+            "id": "christian",
+            "label": "基督宗教",
+            "pct": 2.249630213,
+            "pctDisplay": "2.2%",
+            "countDisplay": "2,840,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "muslim",
+            "label": "伊斯蘭教",
+            "pct": 0.16997391,
+            "pctDisplay": "0.2%",
+            "countDisplay": "210,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "unaffiliated",
+            "label": "無宗教歸屬",
+            "pct": 57.45616913,
+            "pctDisplay": "57.5%",
+            "countDisplay": "72,570,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "hindu",
+            "label": "印度教",
+            "pct": 0.031737354,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "40,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "buddhist",
+            "label": "佛教",
+            "pct": 37.20560837,
+            "pctDisplay": "37.2%",
+            "countDisplay": "46,990,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "other",
+            "label": "其他宗教",
+            "pct": 2.885504961,
+            "pctDisplay": "2.9%",
+            "countDisplay": "3,640,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "jewish",
+            "label": "猶太教",
+            "pct": 0.001376222,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "<10,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          }
+        ],
+        "teachingPrompt": "宗教認同、寺廟參與和文化習俗是不同測量。",
+        "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+        "publishedDate": "2025-06-09"
+      },
+      {
+        "name": "泰國",
+        "nameEn": "Thailand",
+        "countryCode": "764",
+        "populationDisplay": "71,640,000",
+        "dataYear": 2020,
+        "values": [
+          {
+            "id": "christian",
+            "label": "基督宗教",
+            "pct": 1.033611178,
+            "pctDisplay": "1.0%",
+            "countDisplay": "740,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "muslim",
+            "label": "伊斯蘭教",
+            "pct": 4.514589787,
+            "pctDisplay": "4.5%",
+            "countDisplay": "3,230,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "unaffiliated",
+            "label": "無宗教歸屬",
+            "pct": 0.012629814,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "<10,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "hindu",
+            "label": "印度教",
+            "pct": 0.040371645,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "30,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "buddhist",
+            "label": "佛教",
+            "pct": 94.39245605,
+            "pctDisplay": "94.4%",
+            "countDisplay": "67,620,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "other",
+            "label": "其他宗教",
+            "pct": 0.006059419,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "<10,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "jewish",
+            "label": "猶太教",
+            "pct": 0.000279816,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "<10,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          }
+        ],
+        "teachingPrompt": "全國多數比例無法顯示各地區的差異。",
+        "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+        "publishedDate": "2025-06-09"
+      },
+      {
+        "name": "新加坡",
+        "nameEn": "Singapore",
+        "countryCode": "702",
+        "populationDisplay": "5,620,000",
+        "dataYear": 2020,
+        "values": [
+          {
+            "id": "christian",
+            "label": "基督宗教",
+            "pct": 18.75891685,
+            "pctDisplay": "18.8%",
+            "countDisplay": "1,050,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "muslim",
+            "label": "伊斯蘭教",
+            "pct": 16.13864326,
+            "pctDisplay": "16.1%",
+            "countDisplay": "910,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "unaffiliated",
+            "label": "無宗教歸屬",
+            "pct": 19.89608192,
+            "pctDisplay": "19.9%",
+            "countDisplay": "1,120,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "hindu",
+            "label": "印度教",
+            "pct": 5.29460001,
+            "pctDisplay": "5.3%",
+            "countDisplay": "300,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "buddhist",
+            "label": "佛教",
+            "pct": 30.80149078,
+            "pctDisplay": "30.8%",
+            "countDisplay": "1,730,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "other",
+            "label": "其他宗教",
+            "pct": 9.095038414,
+            "pctDisplay": "9.1%",
+            "countDisplay": "510,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "jewish",
+            "label": "猶太教",
+            "pct": 0.015228762,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "<10,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          }
+        ],
+        "teachingPrompt": "七分類沒有任何一類過半，適合比較比例分布。",
+        "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+        "publishedDate": "2025-06-09"
+      },
+      {
+        "name": "以色列",
+        "nameEn": "Israel",
+        "countryCode": "376",
+        "populationDisplay": "8,800,000",
+        "dataYear": 2020,
+        "values": [
+          {
+            "id": "christian",
+            "label": "基督宗教",
+            "pct": 1.879276514,
+            "pctDisplay": "1.9%",
+            "countDisplay": "170,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "muslim",
+            "label": "伊斯蘭教",
+            "pct": 14.73149681,
+            "pctDisplay": "14.7%",
+            "countDisplay": "1,300,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "unaffiliated",
+            "label": "無宗教歸屬",
+            "pct": 4.374664307,
+            "pctDisplay": "4.4%",
+            "countDisplay": "380,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "hindu",
+            "label": "印度教",
+            "pct": 0.166129664,
+            "pctDisplay": "0.2%",
+            "countDisplay": "10,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "buddhist",
+            "label": "佛教",
+            "pct": 0.042839181,
+            "pctDisplay": "<0.1%",
+            "countDisplay": "<10,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "other",
+            "label": "其他宗教",
+            "pct": 1.756201863,
+            "pctDisplay": "1.8%",
+            "countDisplay": "150,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "jewish",
+            "label": "猶太教",
+            "pct": 77.0493927,
+            "pctDisplay": "77.0%",
+            "countDisplay": "6,780,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          }
+        ],
+        "teachingPrompt": "宗教身分統計不能單獨說明個人虔誠程度。",
+        "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+        "publishedDate": "2025-06-09"
+      },
+      {
+        "name": "英國",
+        "nameEn": "United Kingdom",
+        "countryCode": "826",
+        "populationDisplay": "67,350,000",
+        "dataYear": 2020,
+        "values": [
+          {
+            "id": "christian",
+            "label": "基督宗教",
+            "pct": 49.37041092,
+            "pctDisplay": "49.4%",
+            "countDisplay": "33,250,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "muslim",
+            "label": "伊斯蘭教",
+            "pct": 6.369117737,
+            "pctDisplay": "6.4%",
+            "countDisplay": "4,290,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "unaffiliated",
+            "label": "無宗教歸屬",
+            "pct": 40.21815872,
+            "pctDisplay": "40.2%",
+            "countDisplay": "27,090,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "hindu",
+            "label": "印度教",
+            "pct": 1.695444226,
+            "pctDisplay": "1.7%",
+            "countDisplay": "1,140,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "buddhist",
+            "label": "佛教",
+            "pct": 0.457109183,
+            "pctDisplay": "0.5%",
+            "countDisplay": "310,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "other",
+            "label": "其他宗教",
+            "pct": 1.448984146,
+            "pctDisplay": "1.4%",
+            "countDisplay": "980,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          },
+          {
+            "id": "jewish",
+            "label": "猶太教",
+            "pct": 0.440775841,
+            "pctDisplay": "0.4%",
+            "countDisplay": "300,000",
+            "sourceId": "pew-composition",
+            "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+            "dataUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+            "dataYear": 2020,
+            "publishedDate": "2025-06-09"
+          }
+        ],
+        "teachingPrompt": "過半與最大類別並不相同。",
+        "sourceUrl": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+        "publishedDate": "2025-06-09"
+      }
+    ],
+    "methodNotes": [
+      {
+        "title": "在數什麼？",
+        "text": "主要按宗教自我認同分類；不等於虔誠程度或參與頻率。無宗教歸屬包括無神論者、不可知論者與不認同任何宗教者，也可能有宗教信念或實踐。",
+        "sourceUrl": "https://www.pewresearch.org/religion/2025/06/09/global-religious-change-methodology/",
+        "publishedDate": "2025-06-09"
+      },
+      {
+        "title": "為何是估計？",
+        "text": "資料整合超過2,700項來源。兒童、小群體與缺少近期調查的地方，可能需要間接估算或推估。各國來源品質不同。",
+        "sourceUrl": "https://www.pewresearch.org/religion/2025/06/09/global-religious-change-methodology/",
+        "publishedDate": "2025-06-09"
+      },
+      {
+        "title": "其他不等於不重要",
+        "text": "道教、神道、錫克教、耆那教、巴哈伊信仰及部分民間／傳統信仰合併於其他宗教；未單列不代表沒有信徒。",
+        "sourceUrl": "https://www.pewresearch.org/religion/2025/06/09/global-religious-change-methodology/",
+        "publishedDate": "2025-06-09"
+      },
+      {
+        "title": "不同年份不要硬相減",
+        "text": "2025研究重新估計2010基準。做2010–2020變化時，請用這份資料內的兩個年份，不要把舊版2010估計接到新版2020。",
+        "sourceUrl": "https://www.pewresearch.org/religion/2025/06/09/global-religious-change-methodology/",
+        "publishedDate": "2025-06-09"
+      },
+      {
+        "title": "文化語言影響回答",
+        "text": "東亞的「宗教」常指制度化宗教；祭祖、進香等可能被當作習俗。佛教、道教與民間實踐的交疊，使單一身分分類不能完整呈現日常信仰。",
+        "sourceUrl": "https://www.pewresearch.org/religion/2023/08/30/measuring-religion-in-china/",
+        "publishedDate": "2023-08-30"
+      },
+      {
+        "title": "不是每個地方都做2020普查",
+        "text": "資料年的2020是估計目標年，不保證原始調查就在2020。印度使用2011人口普查向2020推估，中國主要宗教組成來源為2018中國綜合社會調查。",
+        "sourceUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/PR_2025.06.09_global-religious-change_appendix-a.pdf",
+        "publishedDate": "2025-06-09"
+      }
+    ],
+    "readingGuide": [
+      "先看分母：是全國人口中的比例，還是全世界某宗教信徒的分布？這裡顯示前者。",
+      "比較比例，也比較人數：相同比例放在人口不同的國家，人數差很多。",
+      "分辨「最大類別」和「多數」：最大類別不一定超過50%。",
+      "圖上很小的色塊仍代表真實的人；使用表格和文字保留<0.1%與<10,000。",
+      "這是宗教認同概況，不能用來推論每位居民的信念、道德、政治立場或行為。",
+      "各國例子是教學選樣，不是完整世界排名；同一國家內也有地區與世代差異。"
+    ],
+    "discussionQuestions": [
+      "一個人口1億國家的1%，和人口500萬國家的10%，哪一個人數較多？圖表應如何同時呈現比例與人數？",
+      "如果一個人說自己沒有宗教，卻會祭祖或參加宗教節慶，你會如何設計問卷來理解他？",
+      "將許多傳統放入「其他宗教」，對比較有什麼便利？又失去什麼細節？",
+      "新加坡的最大類別沒有過半；「最多」和「大多數」差在哪裡？",
+      "若兩份報告數字不同，你會先檢查哪些條件：年份、人口範圍、題目、分類方式，還是資料來源？"
+    ]
+  },
+  "taiwanSafety": {
+    "updatedAt": "2026-10-04",
+    "title": "臺灣宗教與高控制傷害辨識",
+    "sections": [
+      {
+        "id": "taiwan",
+        "title": "在臺灣：認同、生活與自由",
+        "intro": "不要只問「你信哪一教」；也可以問一個人參加什麼活動、如何理解那些活動。",
+        "facts": [
+          {
+            "id": "tw-survey",
+            "title": "宗教認同的調查快照",
+            "text": "Pew於2023年調查、2024年發表：臺灣成年人自我認同為佛教28%、無宗教27%、道教24%、基督宗教7%，另12%歸入其他宗教（包括地方／原住民族宗教、多種宗教組合等）。這是調查估計，不是2026年人口普查。",
+            "sourceIds": [
+              "tw-pew-composition",
+              "tw-pew-method"
+            ],
+            "data": [
+              {
+                "label": "佛教",
+                "value": 28
+              },
+              {
+                "label": "無宗教",
+                "value": 27
+              },
+              {
+                "label": "道教",
+                "value": 24
+              },
+              {
+                "label": "基督宗教",
+                "value": 7
+              },
+              {
+                "label": "其他宗教／多種宗教組合",
+                "value": 12
+              }
+            ],
+            "unit": "%",
+            "dataYear": 2023,
+            "caveat": "對象為18歲以上成年人；臺灣採市話與手機隨機抽樣電話訪問並加權。全計畫訪問期為2023年6月2日至9月17日。題目問有無宗教及宗教認同；原圖未列不知道／拒答，且百分比經四捨五入，所以顯示值不一定合計100%。不能把問法不同的調查直接接成趨勢。"
+          },
+          {
+            "id": "tw-multiple",
+            "title": "認同一種，也可能接觸多種",
+            "text": "同份調查中，67%的臺灣成年人對自己宗教之外的至少一種傳統或哲學生活方式感到連結。「感到連結」不是正式入教，也不是67%同時登記為多教信徒。",
+            "sourceIds": [
+              "tw-pew-connection"
+            ],
+            "dataYear": 2023
+          },
+          {
+            "id": "tw-practice",
+            "title": "「無宗教」不等於「不祭祖」",
+            "text": "佛教、道教、地方信仰與祭祖在日常生活中可能交會。調查顯示，從小到現在都無宗教認同的臺灣成年人，仍有45%表示一般會去寺廟或佛塔。參加家庭儀式的理由，也可能包含文化與親情。",
+            "sourceIds": [
+              "tw-pew-practice"
+            ],
+            "dataYear": 2023,
+            "caveat": "45%只適用於「從小至今無宗教認同」這個子群，不是全體臺灣人或所有無宗教者。文化與親情為理解活動的可能角度，不能替受訪者認定動機。"
+          },
+          {
+            "id": "tw-building",
+            "title": "寺廟數量不是信徒人口",
+            "text": "內政部把「寺廟登記概況」與「教會（堂）概況」列為不同公務統計表。它們量測登記場所／組織，不等於全體信仰人口；一個人可能到多處活動，也可能不登記。比較數字之前，先看年份、登記範圍與單位。",
+            "sourceIds": [
+              "tw-statistics"
+            ]
+          },
+          {
+            "id": "tw-rights",
+            "title": "也包括不信、離開與不參加",
+            "text": "憲法第13條保障宗教信仰自由；釋字573號說明，保障包括信或不信、參加或不參加活動，並保障宗教組織自主。這是制度保障，不表示每個人在生活中都不會受到歧視或壓力。討論個案仍須查證具體事實。",
+            "sourceIds": [
+              "tw-freedom"
+            ]
+          },
+          {
+            "id": "tw-indigenous",
+            "title": "原住民族信仰不能畫成單一格",
+            "text": "各民族、部落和個人的經驗不同。原民會以排灣族為例，說明傳統神靈觀念與後來傳入的基督新教、天主教並存。不要把原住民族文化一概等同某一宗教，也不要假定每個族人都信教。",
+            "sourceIds": [
+              "tw-paiwan"
+            ]
+          },
+          {
+            "id": "tw-minorities",
+            "title": "少數不代表不重要",
+            "text": "臺灣也有穆斯林、猶太教、巴哈伊信仰、一貫道等多元社群；官方歷來統計分類包含這些傳統。臺北清真寺是穆斯林禮拜、社群與文化交流的場所。分類名單不是人口排行，也不是政府替信仰真偽背書。",
+            "sourceIds": [
+              "tw-diversity",
+              "tw-mosque"
+            ]
+          },
+          {
+            "id": "tw-current",
+            "title": "近年議題：祭祀與環境怎麼兼顧？",
+            "text": "2025年環境部推動紙錢集中處理，並與媽祖遶境活動合作宣導減少一次性用品。可以討論：如何尊重儀式意義，同時降低煙霧、垃圾與對鄰里的影響？政策合作案例不代表所有信眾做法相同。",
+            "sourceIds": [
+              "tw-environment",
+              "tw-procession"
+            ],
+            "dataYear": 2025
+          }
+        ]
+      },
+      {
+        "id": "terms",
+        "title": "「邪教」：先釐清用詞，再看行為",
+        "facts": [
+          {
+            "id": "term-label",
+            "title": "日常標籤不是研究結論",
+            "text": "中文「邪教」常帶強烈否定；英文cult在不同學科和年代用法不同，日常語言也常帶貶義。宗教研究常改用「新興宗教」或「少數宗教」並描述具體活動；這不代表否認傷害。歷史短、人數少、外來或教義陌生，都不能單獨證明危險。",
+            "sourceIds": [
+              "safe-inform"
+            ]
+          },
+          {
+            "id": "term-law",
+            "title": "法律用語要標明國家與證據",
+            "text": "政府文件中的分類、學者的研究概念，以及網路罵人的標籤，不能混為一談。法國Miviludes的官方預防框架聚焦造成傷害的控制行為，而非禁止某種信仰。這是法國政策框架，不是臺灣的法律定義；臺灣個案是否違法，應查適用法律與判決。",
+            "sourceIds": [
+              "safe-miviludes",
+              "tw-freedom"
+            ]
+          },
+          {
+            "id": "term-lens",
+            "title": "本單元用「高控制與傷害」觀察",
+            "text": "看能否自由拒絕、求助及離開，是否存在威脅、剝削或暴力。這是教育性的觀察角度，不是臨床診斷，也沒有「勾滿幾項就是邪教」的可靠結論。對特定行為究責，不把所有成員或整個信仰都當成加害者。",
+            "sourceIds": [
+              "safe-miviludes",
+              "safe-inform"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "warning-signs",
+        "title": "值得停下來求助的具體行為",
+        "intro": "以下是行為警訊，並非評分測驗。若有威脅或暴力，不必等「符合多項」才求助。",
+        "facts": [
+          {
+            "id": "warn-isolation",
+            "title": "強制隔離",
+            "text": "禁止與可信任親友聯繫、扣住通訊工具，或不准獨立查證資訊。",
+            "sourceIds": [
+              "safe-miviludes"
+            ]
+          },
+          {
+            "id": "warn-exit",
+            "title": "威脅退出的人",
+            "text": "以騷擾、暴力、曝光隱私或其他報復，阻止成員拒絕或離開。",
+            "sourceIds": [
+              "safe-miviludes",
+              "case-nxivm"
+            ]
+          },
+          {
+            "id": "warn-money",
+            "title": "強迫金錢與勞動",
+            "text": "用恐嚇或控制迫使交出財產、負債、無償勞動，且無法自由拒絕。自願捐款本身不等於剝削。",
+            "sourceIds": [
+              "safe-miviludes"
+            ]
+          },
+          {
+            "id": "warn-sex",
+            "title": "性剝削",
+            "text": "以領袖權威或秘密資料施壓要求性行為；任何「修行」說法都不能取代自由同意。",
+            "sourceIds": [
+              "case-nxivm"
+            ]
+          },
+          {
+            "id": "warn-health",
+            "title": "阻斷醫療或求助",
+            "text": "阻止成員接受合格醫療、向老師或社工求助；用團體要求壓過個人安全與基本需要。",
+            "sourceIds": [
+              "safe-miviludes"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "cases",
+        "title": "三個有官方紀錄的案例",
+        "intro": "案例說明具體犯罪與控制，不用來推論所有宗教或所有成員都危險。避免把大量傷亡當成獵奇故事。",
+        "facts": [
+          {
+            "id": "case-aum-fact",
+            "title": "奧姆真理教｜日本，1995",
+            "text": "1995年3月20日，奧姆真理教成員發動東京地鐵沙林攻擊；日本警察廳記錄此案及相關刑事追究。教學重點是暴力、組織責任與公共安全，不是用其挪用的宗教詞語評判佛教或其他傳統。",
+            "sourceIds": [
+              "case-aum"
+            ],
+            "year": 1995,
+            "caveat": "不同時點資料對死亡與受傷統計有差異，本版不以傷亡數字作比較或排名。"
+          },
+          {
+            "id": "case-jonestown-fact",
+            "title": "人民聖殿／Jonestown｜蓋亞那，1978",
+            "text": "1978年11月18日，美國議員Leo Ryan在調查人權侵害期間，與同行者遭人民聖殿追隨者殺害；同日Jonestown發生大量死亡。FBI以RYMUR案調查謀殺並支援相關調查。勿簡化為「所有人自願赴死」，也不要責怪受害者。",
+            "sourceIds": [
+              "case-jonestown"
+            ],
+            "year": 1978
+          },
+          {
+            "id": "case-nxivm-fact",
+            "title": "NXIVM｜美國，2019–2020",
+            "text": "NXIVM以自我成長課程招募，並非本導覽中的世界宗教。領導人Keith Raniere於2019年被定罪，2020年因有組織犯罪、性販運等罪被判120年徒刑；官方紀錄也列出強迫勞動與以私密資料控制成員。這提醒我們：剝削不限於宗教場域。",
+            "sourceIds": [
+              "case-nxivm"
+            ],
+            "year": 2020,
+            "caveat": "判刑日期為2020-10-27。敘述針對已定罪行為；不展示受害者姓名、未成年細節或私密資料。"
+          }
+        ]
+      },
+      {
+        "id": "help",
+        "title": "如果自己或朋友不安",
+        "facts": [
+          {
+            "id": "help-support",
+            "title": "先保留安全的聯繫",
+            "text": "找可信任的成年人、學校輔導老師或社工，一起討論具體行為與可行下一步。對朋友保持聯繫，聽他說，不羞辱或逼他辯論信仰；尊重自主，也認真看待威脅。不要自行滲透、綁走對方或與團體對抗。",
+            "sourceIds": [
+              "safe-contact",
+              "safe-miviludes"
+            ]
+          },
+          {
+            "id": "help-immediate",
+            "title": "在臺灣遇到即時危險",
+            "text": "若有人正遭暴力、被限制人身自由或面臨立即危險，優先到安全處並撥110報警。不要為蒐證冒險。",
+            "sourceIds": [
+              "help-110"
+            ]
+          },
+          {
+            "id": "help-protection",
+            "title": "保護與專業協助",
+            "text": "涉及家庭暴力、性侵害、性騷擾或兒少等保護問題，可撥113保護專線，全年24小時提供諮詢與轉介。法律責任與醫療處置，交由律師、醫療人員及保護服務專業評估；這份導覽不能替個案診斷或下法律結論。",
+            "sourceIds": [
+              "help-113"
+            ]
+          }
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "id": "tw-pew-composition",
+        "title": "Religious landscape and change",
+        "url": "https://www.pewresearch.org/religion/2024/06/17/religious-landscape-and-change-in-east-asia/",
+        "publisher": "Pew Research Center",
+        "publishedAt": "2024-06-17",
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "tw-pew-method",
+        "title": "2023年東亞宗教調查方法",
+        "url": "https://www.pewresearch.org/religion/2024/06/17/religion-in-east-asia-methodology/",
+        "publisher": "Pew Research Center",
+        "publishedAt": "2024-06-17",
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "tw-pew-connection",
+        "title": "Religion as a way of life",
+        "url": "https://www.pewresearch.org/religion/2024/06/17/religion-as-a-way-of-life/",
+        "publisher": "Pew Research Center",
+        "publishedAt": "2024-06-17",
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "tw-pew-practice",
+        "title": "Religion and Spirituality in East Asian Societies",
+        "url": "https://www.pewresearch.org/religion/2024/06/17/religion-and-spirituality-in-east-asian-societies/",
+        "publisher": "Pew Research Center",
+        "publishedAt": "2024-06-17",
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "tw-statistics",
+        "title": "宗教及禮制類公務統計報表程式（114年實施版）",
+        "url": "https://www.moi.gov.tw/cl.aspx?n=21700",
+        "publisher": "內政部",
+        "publishedAt": "2025",
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "tw-freedom",
+        "title": "釋字第573號解釋",
+        "url": "https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310754",
+        "publisher": "司法院憲法法庭",
+        "publishedAt": "2004-02-27",
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "tw-paiwan",
+        "title": "排灣族：宗教信仰",
+        "url": "https://www.cip.gov.tw/zh-tw/tribe/grid-list/67E3CC5AE2F10A8BD0636733C6861689/info.html?cumid=8F19BF08AE220D65",
+        "publisher": "原住民族委員會",
+        "publishedAt": null,
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "tw-mosque",
+        "title": "臺北清真寺",
+        "url": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Landscape/1_0011.aspx?i=4",
+        "publisher": "內政部臺灣宗教文化地圖",
+        "publishedAt": null,
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "tw-diversity",
+        "title": "內政統計年報（宗教統計分類說明）",
+        "url": "https://ws.moi.gov.tw/001/Upload/OldFile/site_node_file/8731/107%E5%B9%B4%E5%85%A7%E6%94%BF%E7%B5%B1%E8%A8%88%E5%B9%B4%E5%A0%B1%E9%9B%BB%E5%AD%90%E6%9B%B8.pdf",
+        "publisher": "內政部",
+        "publishedAt": "2018",
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "tw-environment",
+        "title": "環境友善祭祀：紙錢集中處理",
+        "url": "https://air.moenv.gov.tw/News/news.aspx?ID=6147",
+        "publisher": "環境部",
+        "publishedAt": "2025-01-27",
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "tw-procession",
+        "title": "自備、重複、少用！跟著媽祖做環保",
+        "url": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/2487",
+        "publisher": "環境部",
+        "publishedAt": "2025",
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "safe-inform",
+        "title": "When is a Group a Cult?",
+        "url": "https://inform.ac/cult/",
+        "publisher": "Inform（宗教研究資訊機構）",
+        "publishedAt": "2022-11-24",
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "safe-miviludes",
+        "title": "Comment identifier une dérive sectaire ?",
+        "url": "https://www.miviludes.interieur.gouv.fr/comprendre-prevenir-et-lutter/comment-identifier-derive-sectaire",
+        "publisher": "法國內政部 Miviludes",
+        "publishedAt": null,
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "safe-contact",
+        "title": "Miviludes介紹與親友應對建議",
+        "url": "https://www.miviludes.interieur.gouv.fr/sites/miviludes/files/medias/documents/2025-05/Brochure%20pre%CC%81sentation%20de%20la%20Miviludes.pdf",
+        "publisher": "法國內政部 Miviludes",
+        "publishedAt": "2025",
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "case-aum",
+        "title": "奧姆真理教案件與警察工作",
+        "url": "https://www.npa.go.jp/bureau/security/kouan/aum.html",
+        "publisher": "日本警察廳",
+        "publishedAt": null,
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "case-jonestown",
+        "title": "RYMUR：Leo Ryan謀殺案／Jonestown調查",
+        "url": "https://vault.fbi.gov/jonestown",
+        "publisher": "美國聯邦調查局 FBI",
+        "publishedAt": null,
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "case-nxivm",
+        "title": "NXIVM領導人因有組織犯罪及性販運等罪被判刑",
+        "url": "https://www.justice.gov/usao-edny/pr/nxivm-leader-keith-raniere-sentenced-120-years-prison-racketeering-and-sex-trafficking",
+        "publisher": "美國司法部",
+        "publishedAt": "2020-10-27",
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "help-110",
+        "title": "24小時緊急通報專線",
+        "url": "https://safemyhome.npa.gov.tw/ch/app/artwebsite/view?id=1358&module=artwebsite&serno=f1512793-602e-4977-beaa-356fbeba6bd6",
+        "publisher": "內政部警政署",
+        "publishedAt": null,
+        "accessedAt": "2026-10-04"
+      },
+      {
+        "id": "help-113",
+        "title": "113保護專線介紹",
+        "url": "https://dep.mohw.gov.tw/DOPs/cp-1183-6499-105.html",
+        "publisher": "衛生福利部保護服務司",
+        "publishedAt": null,
+        "accessedAt": "2026-10-04"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "id": "method",
+      "title": "Harvard：What is Religious Literacy?",
+      "url": "https://rpl.hds.harvard.edu/what-we-do/our-approach/what-religious-literacy",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard",
+      "producer": "Harvard",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "rivers",
+      "title": "Harvard：Rivers of Faith",
+      "url": "https://pluralism.org/rivers-of-faith",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard",
+      "producer": "Harvard",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "chr",
+      "title": "Harvard Pluralism Project：基督宗教導論",
+      "url": "https://pluralism.org/introduction-christianity",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "chrhist",
+      "title": "Harvard Pluralism Project：基督宗教歷史",
+      "url": "https://pluralism.org/christianity",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "orth",
+      "title": "Harvard Pluralism Project：東方正教會",
+      "url": "https://pluralism.org/orthodox-christian-churches",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "cath",
+      "title": "Harvard Pluralism Project：天主教會及其共融",
+      "url": "https://pluralism.org/the-roman-catholic-church-and-the-catholic-communion",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "prot",
+      "title": "Harvard Pluralism Project：新教運動",
+      "url": "https://pluralism.org/the-protestant-movement",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "isl",
+      "title": "Harvard Pluralism Project：伊斯蘭導論",
+      "url": "https://pluralism.org/introduction-to-islam",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "islhist",
+      "title": "Harvard Pluralism Project：伊斯蘭歷史",
+      "url": "https://pluralism.org/islam",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "sunni",
+      "title": "Harvard Pluralism Project：遜尼與什葉詮釋",
+      "url": "https://pluralism.org/sunni-and-shi%E2%80%99i-interpretations",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "sharia",
+      "title": "Harvard Pluralism Project：沙里亞及法學",
+      "url": "https://pluralism.org/shari%E2%80%99ah-following-the-straight-path",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "hin",
+      "title": "Harvard Pluralism Project：印度教導論",
+      "url": "https://pluralism.org/introduction-to-hinduism",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "hinhist",
+      "title": "Harvard Pluralism Project：印度教歷史",
+      "url": "https://pluralism.org/hinduism",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "veda",
+      "title": "Harvard Pluralism Project：吠陀及權威",
+      "url": "https://pluralism.org/veda-scripture-and-authority",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "dharma",
+      "title": "Harvard Pluralism Project：Dharma 與社會秩序",
+      "url": "https://pluralism.org/dharma-the-social-order",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "diwali",
+      "title": "Harvard Pluralism Project：排燈節",
+      "url": "https://pluralism.org/divali",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "bud",
+      "title": "Harvard Pluralism Project：佛教導論",
+      "url": "https://pluralism.org/introduction-to-buddhism",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "budspread",
+      "title": "Harvard Pluralism Project：佛教傳播",
+      "url": "https://pluralism.org/the-expansion-of-buddhism",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "budwomen",
+      "title": "Harvard Pluralism Project：美國佛教中的女性",
+      "url": "https://pluralism.org/women-in-american-buddhism",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "vesak",
+      "title": "Harvard Pluralism Project：佛誕",
+      "url": "https://pluralism.org/buddha%E2%80%99s-birthday-0",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "jew",
+      "title": "Harvard Pluralism Project：猶太教導論",
+      "url": "https://pluralism.org/introduction-to-judaism",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "jewpost",
+      "title": "Harvard Pluralism Project：後聖經時代猶太教",
+      "url": "https://pluralism.org/post-biblical-religion",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "jewidentity",
+      "title": "Harvard Pluralism Project：誰是猶太人？",
+      "url": "https://pluralism.org/who-is-a-jew",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "sikh",
+      "title": "Harvard Pluralism Project：錫克教導論",
+      "url": "https://pluralism.org/introduction-to-sikhism",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "sikhhist",
+      "title": "Harvard Pluralism Project：錫克教歷史",
+      "url": "https://pluralism.org/sikhism",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "dao",
+      "title": "Harvard Pluralism Project：道教歷史",
+      "url": "https://pluralism.org/daoism",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "daoway",
+      "title": "Harvard Pluralism Project：道及其力量",
+      "url": "https://pluralism.org/the-way-and-its-power",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "shinto",
+      "title": "Harvard Pluralism Project：神道歷史",
+      "url": "https://pluralism.org/shinto",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "humanism",
+      "title": "Harvard Pluralism Project：人文主義",
+      "url": "https://pluralism.org/humanism",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "canon",
+      "title": "教廷：《天主教法典》1024條",
+      "url": "https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib4-cann998-1165_en.html",
+      "type": "宗教／信仰社群自述",
+      "checkedAt": "2026-10-04",
+      "publisher": "教廷",
+      "producer": "教廷",
+      "note": "來源用途：宗教機構自述／現行規範"
+    },
+    {
+      "id": "anglican",
+      "title": "英格蘭教會：首位女性主教於2015年祝聖",
+      "url": "https://www.churchofengland.org/media/press-releases/rt-revd-libby-lane-consecrated-york-minster",
+      "type": "宗教／信仰社群自述",
+      "checkedAt": "2026-10-04",
+      "publisher": "英格蘭教會",
+      "producer": "英格蘭教會",
+      "note": "來源用途：宗教機構自述／歷史紀錄"
+    },
+    {
+      "id": "sikhbelief",
+      "title": "Sikh Coalition：Beliefs",
+      "url": "https://www.sikhcoalition.org/about-sikhs/beliefs/",
+      "type": "宗教／信仰社群自述",
+      "checkedAt": "2026-10-04",
+      "publisher": "Sikh Coalition",
+      "producer": "Sikh Coalition",
+      "note": "來源用途：信仰社群倡議組織自述"
+    },
+    {
+      "id": "sikhfaq",
+      "title": "Sikh Coalition：FAQ",
+      "url": "https://www.sikhcoalition.org/about-sikhs/faq/",
+      "type": "宗教／信仰社群自述",
+      "checkedAt": "2026-10-04",
+      "publisher": "Sikh Coalition",
+      "producer": "Sikh Coalition",
+      "note": "來源用途：信仰社群倡議組織自述"
+    },
+    {
+      "id": "sikhmission",
+      "title": "Sikh Coalition：Mission and Values",
+      "url": "https://www.sikhcoalition.org/about-us/mission-values/",
+      "type": "宗教／信仰社群自述",
+      "checkedAt": "2026-10-04",
+      "publisher": "Sikh Coalition",
+      "producer": "Sikh Coalition",
+      "note": "來源用途：信仰社群倡議組織自述"
+    },
+    {
+      "id": "laozi",
+      "title": "Stanford Encyclopedia of Philosophy：Laozi",
+      "url": "https://plato.stanford.edu/entries/laozi/",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "producer": "Stanford Encyclopedia of Philosophy",
+      "note": "來源用途：學術百科"
+    },
+    {
+      "id": "jinja",
+      "title": "神社本廳：What is Shinto?",
+      "url": "https://www.jinjahoncho.or.jp/en/shinto/",
+      "type": "宗教／信仰社群自述",
+      "checkedAt": "2026-10-04",
+      "publisher": "神社本廳",
+      "producer": "神社本廳",
+      "note": "來源用途：宗教機構自述"
+    },
+    {
+      "id": "jinjahistory",
+      "title": "神社本廳：組織介紹",
+      "url": "https://www.jinjahoncho.or.jp/en/",
+      "type": "宗教／信仰社群自述",
+      "checkedAt": "2026-10-04",
+      "publisher": "神社本廳",
+      "producer": "神社本廳",
+      "note": "來源用途：宗教機構自述"
+    },
+    {
+      "id": "mazu",
+      "title": "UNESCO：Mazu belief and customs",
+      "url": "https://ich.unesco.org/en/RL/mazu-belief-and-customs-00227",
+      "type": "國際組織",
+      "checkedAt": "2026-10-04",
+      "publisher": "UNESCO",
+      "producer": "UNESCO",
+      "note": "來源用途：國際組織文化遺產紀錄；含申報社群敘事"
+    },
+    {
+      "id": "folk",
+      "title": "行政院：臺灣的民間信仰",
+      "url": "https://www.ey.gov.tw/state/D00B53C98CD4F08F/ebdc93b1-e9df-4bf4-8bfe-c6374a0f811f",
+      "type": "政府／公共機關",
+      "checkedAt": "2026-10-04",
+      "publisher": "行政院",
+      "producer": "行政院",
+      "note": "來源用途：政府文化介紹"
+    },
+    {
+      "id": "folkMuseum",
+      "title": "世界宗教博物館：台灣民間信仰",
+      "url": "https://www.mwr.org.tw/tw_religion/introduction/tw07.htm",
+      "type": "博物館與文化研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "世界宗教博物館",
+      "producer": "世界宗教博物館",
+      "note": "來源用途：博物館／宗教文化介紹"
+    },
+    {
+      "id": "green",
+      "title": "環境部：2025媽祖遶境環保合作",
+      "url": "https://sup.moenv.gov.tw/news/3ba5e229-ea65-4937-ab1e-3751ac8c03b5",
+      "type": "政府／公共機關",
+      "checkedAt": "2026-10-04",
+      "publisher": "環境部",
+      "producer": "環境部",
+      "note": "來源用途：政府政策及活動紀錄"
+    },
+    {
+      "id": "native",
+      "title": "Smithsonian NMAI：Essential Understandings",
+      "url": "https://americanindian.si.edu/nk360/about/essential-understandings",
+      "type": "博物館與文化研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Smithsonian NMAI",
+      "producer": "Smithsonian NMAI",
+      "note": "來源用途：博物館；與原住民族社群合作"
+    },
+    {
+      "id": "boarding",
+      "title": "Smithsonian NMAI：Boarding Schools",
+      "url": "https://americanindian.si.edu/nk360/code-talkers/boarding-schools/",
+      "type": "博物館與文化研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Smithsonian NMAI",
+      "producer": "Smithsonian NMAI",
+      "note": "來源用途：博物館；原住民族口述歷史"
+    },
+    {
+      "id": "nagpra",
+      "title": "美國國家公園署：NAGPRA法案歷史",
+      "url": "https://www.nps.gov/subjects/nagpra/the-law.htm",
+      "type": "政府／公共機關",
+      "checkedAt": "2026-10-04",
+      "publisher": "美國國家公園署",
+      "producer": "美國國家公園署",
+      "note": "來源用途：政府／法律原始資料"
+    },
+    {
+      "id": "care",
+      "title": "美國國家公園署：2024 Duty of Care FAQ",
+      "url": "https://www.nps.gov/subjects/nagpra/upload/Duty-of-Care-FAQ.pdf",
+      "type": "政府／公共機關",
+      "checkedAt": "2026-10-04",
+      "publisher": "美國國家公園署",
+      "producer": "美國國家公園署",
+      "note": "來源用途：政府／規章說明"
+    },
+    {
+      "id": "undrip",
+      "title": "聯合國：2007原住民族權利宣言",
+      "url": "https://digitallibrary.un.org/record/638370?v=pdf",
+      "type": "國際組織",
+      "checkedAt": "2026-10-04",
+      "publisher": "聯合國",
+      "producer": "聯合國",
+      "note": "來源用途：國際組織／原始文件"
+    },
+    {
+      "id": "udhr",
+      "title": "聯合國：《世界人權宣言》第18條",
+      "url": "https://www.un.org/en/about-us/universal-declaration-of-human-rights",
+      "type": "國際組織",
+      "checkedAt": "2026-10-04",
+      "publisher": "聯合國",
+      "producer": "聯合國",
+      "note": "來源用途：國際組織／原始文件"
+    },
+    {
+      "id": "nones",
+      "title": "Pew Research Center：Who are the nones?",
+      "url": "https://www.pewresearch.org/religious-landscape-study/2024/01/24/who-are-the-nones-how-are-they-defined/",
+      "type": "調查研究機構",
+      "checkedAt": "2026-10-04",
+      "publisher": "Pew Research Center",
+      "producer": "Pew Research Center",
+      "note": "來源用途：獨立調查研究機構"
+    },
+    {
+      "id": "atheism",
+      "title": "Stanford Encyclopedia of Philosophy：Atheism and Agnosticism",
+      "url": "https://plato.stanford.edu/archives/spr2024/entries/atheism-agnosticism/",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "producer": "Stanford Encyclopedia of Philosophy",
+      "note": "來源用途：學術百科"
+    },
+    {
+      "id": "chr-life",
+      "title": "Harvard：耶穌的生平與教導",
+      "url": "https://pluralism.org/life-and-teachings-of-jesus",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "chr-resurrection",
+      "title": "Harvard：耶穌的死亡與復活",
+      "url": "https://pluralism.org/death-and-resurrection-of-jesus",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "isl-muhammad",
+      "title": "Harvard：穆罕默德與早期社群",
+      "url": "https://pluralism.org/muhammad-the-messenger-of-god",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "bud-path",
+      "title": "Harvard：覺醒之道",
+      "url": "https://pluralism.org/the-path-of-awakening",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "jew-monotheism",
+      "title": "Harvard：聖經一神信仰的歷史背景",
+      "url": "https://pluralism.org/god-biblical-monotheism",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "jew-peoplehood",
+      "title": "Harvard：上帝、妥拉與以色列",
+      "url": "https://pluralism.org/god-torah-and-israel",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Harvard Pluralism Project",
+      "producer": "Harvard Pluralism Project",
+      "note": "來源用途：大學宗教研究"
+    },
+    {
+      "id": "buddha-sep",
+      "title": "Stanford Encyclopedia of Philosophy：Buddha",
+      "url": "https://plato.stanford.edu/entries/buddha/",
+      "type": "大學與學術研究",
+      "checkedAt": "2026-10-04",
+      "publisher": "Stanford Encyclopedia of Philosophy",
+      "producer": "Stanford Encyclopedia of Philosophy",
+      "publishedDate": "2023-03-06",
+      "note": "來源用途：學術百科"
+    },
+    {
+      "id": "pew-composition",
+      "title": "Religious Composition by Country, 2010–2020",
+      "producer": "Pew Research Center",
+      "publishedDate": "2025-06-09",
+      "updatedDate": "2026-02-12",
+      "url": "https://www.pewresearch.org/religion/feature/religious-composition-by-country-2010-2020/",
+      "downloadUrl": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/Religious-Composition-2010-2020-dataset.zip",
+      "type": "調查研究機構"
+    },
+    {
+      "id": "pew-method",
+      "title": "Methodology: How the Global Religious Landscape Changed",
+      "producer": "Pew Research Center",
+      "publishedDate": "2025-06-09",
+      "url": "https://www.pewresearch.org/religion/2025/06/09/global-religious-change-methodology/",
+      "type": "調查研究機構"
+    },
+    {
+      "id": "pew-report",
+      "title": "How the Global Religious Landscape Changed from 2010 to 2020",
+      "producer": "Pew Research Center",
+      "publishedDate": "2025-06-09",
+      "url": "https://www.pewresearch.org/religion/2025/06/09/how-the-global-religious-landscape-changed-from-2010-to-2020/",
+      "type": "調查研究機構"
+    },
+    {
+      "id": "pew-sources",
+      "title": "Appendix A: Sources",
+      "producer": "Pew Research Center",
+      "publishedDate": "2025-06-09",
+      "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2025/06/PR_2025.06.09_global-religious-change_appendix-a.pdf",
+      "type": "調查研究機構"
+    },
+    {
+      "id": "pew-china",
+      "title": "Measuring Religion in China",
+      "producer": "Pew Research Center",
+      "publishedDate": "2023-08-30",
+      "url": "https://www.pewresearch.org/religion/2023/08/30/measuring-religion-in-china/",
+      "type": "調查研究機構"
+    },
+    {
+      "id": "tw-pew-composition",
+      "title": "Religious landscape and change",
+      "url": "https://www.pewresearch.org/religion/2024/06/17/religious-landscape-and-change-in-east-asia/",
+      "publisher": "Pew Research Center",
+      "publishedAt": "2024-06-17",
+      "accessedAt": "2026-10-04",
+      "type": "調查研究機構"
+    },
+    {
+      "id": "tw-pew-method",
+      "title": "2023年東亞宗教調查方法",
+      "url": "https://www.pewresearch.org/religion/2024/06/17/religion-in-east-asia-methodology/",
+      "publisher": "Pew Research Center",
+      "publishedAt": "2024-06-17",
+      "accessedAt": "2026-10-04",
+      "type": "調查研究機構"
+    },
+    {
+      "id": "tw-pew-connection",
+      "title": "Religion as a way of life",
+      "url": "https://www.pewresearch.org/religion/2024/06/17/religion-as-a-way-of-life/",
+      "publisher": "Pew Research Center",
+      "publishedAt": "2024-06-17",
+      "accessedAt": "2026-10-04",
+      "type": "調查研究機構"
+    },
+    {
+      "id": "tw-pew-practice",
+      "title": "Religion and Spirituality in East Asian Societies",
+      "url": "https://www.pewresearch.org/religion/2024/06/17/religion-and-spirituality-in-east-asian-societies/",
+      "publisher": "Pew Research Center",
+      "publishedAt": "2024-06-17",
+      "accessedAt": "2026-10-04",
+      "type": "調查研究機構"
+    },
+    {
+      "id": "tw-statistics",
+      "title": "宗教及禮制類公務統計報表程式（114年實施版）",
+      "url": "https://www.moi.gov.tw/cl.aspx?n=21700",
+      "publisher": "內政部",
+      "publishedAt": "2025",
+      "accessedAt": "2026-10-04",
+      "type": "政府／公共機關"
+    },
+    {
+      "id": "tw-freedom",
+      "title": "釋字第573號解釋",
+      "url": "https://cons.judicial.gov.tw/docdata.aspx?fid=100&id=310754",
+      "publisher": "司法院憲法法庭",
+      "publishedAt": "2004-02-27",
+      "accessedAt": "2026-10-04",
+      "type": "政府／公共機關",
+      "alternateUrl": "https://cons.judicial.gov.tw/download/download.aspx?id=350439"
+    },
+    {
+      "id": "tw-paiwan",
+      "title": "排灣族：宗教信仰",
+      "url": "https://www.cip.gov.tw/zh-tw/tribe/grid-list/67E3CC5AE2F10A8BD0636733C6861689/info.html?cumid=8F19BF08AE220D65",
+      "publisher": "原住民族委員會",
+      "publishedAt": null,
+      "accessedAt": "2026-10-04",
+      "type": "政府／公共機關"
+    },
+    {
+      "id": "tw-mosque",
+      "title": "臺北清真寺",
+      "url": "https://taiwangods.moi.gov.tw/Religious_Culture/html/Landscape/1_0011.aspx?i=4",
+      "publisher": "內政部臺灣宗教文化地圖",
+      "publishedAt": null,
+      "accessedAt": "2026-10-04",
+      "type": "政府／公共機關"
+    },
+    {
+      "id": "tw-diversity",
+      "title": "內政統計年報（宗教統計分類說明）",
+      "url": "https://ws.moi.gov.tw/001/Upload/OldFile/site_node_file/8731/107%E5%B9%B4%E5%85%A7%E6%94%BF%E7%B5%B1%E8%A8%88%E5%B9%B4%E5%A0%B1%E9%9B%BB%E5%AD%90%E6%9B%B8.pdf",
+      "publisher": "內政部",
+      "publishedAt": "2018",
+      "accessedAt": "2026-10-04",
+      "type": "政府／公共機關"
+    },
+    {
+      "id": "tw-environment",
+      "title": "環境友善祭祀：紙錢集中處理",
+      "url": "https://air.moenv.gov.tw/News/news.aspx?ID=6147",
+      "publisher": "環境部",
+      "publishedAt": "2025-01-27",
+      "accessedAt": "2026-10-04",
+      "type": "政府／公共機關"
+    },
+    {
+      "id": "tw-procession",
+      "title": "自備、重複、少用！跟著媽祖做環保",
+      "url": "https://enews.moenv.gov.tw/moenv-news/zh-tw/News/2487",
+      "publisher": "環境部",
+      "publishedAt": "2025",
+      "accessedAt": "2026-10-04",
+      "type": "政府／公共機關"
+    },
+    {
+      "id": "safe-inform",
+      "title": "When is a Group a Cult?",
+      "url": "https://inform.ac/cult/",
+      "publisher": "Inform（宗教研究資訊機構）",
+      "publishedAt": "2022-11-24",
+      "accessedAt": "2026-10-04",
+      "type": "宗教研究資訊機構"
+    },
+    {
+      "id": "safe-miviludes",
+      "title": "Comment identifier une dérive sectaire ?",
+      "url": "https://www.miviludes.interieur.gouv.fr/comprendre-prevenir-et-lutter/comment-identifier-derive-sectaire",
+      "publisher": "法國內政部 Miviludes",
+      "publishedAt": null,
+      "accessedAt": "2026-10-04",
+      "type": "政府／公共機關"
+    },
+    {
+      "id": "safe-contact",
+      "title": "Miviludes介紹與親友應對建議",
+      "url": "https://www.miviludes.interieur.gouv.fr/sites/miviludes/files/medias/documents/2025-05/Brochure%20pre%CC%81sentation%20de%20la%20Miviludes.pdf",
+      "publisher": "法國內政部 Miviludes",
+      "publishedAt": "2025",
+      "accessedAt": "2026-10-04",
+      "type": "政府／公共機關"
+    },
+    {
+      "id": "case-aum",
+      "title": "奧姆真理教案件與警察工作",
+      "url": "https://www.npa.go.jp/bureau/security/kouan/aum.html",
+      "publisher": "日本警察廳",
+      "publishedAt": null,
+      "accessedAt": "2026-10-04",
+      "type": "政府／公共機關"
+    },
+    {
+      "id": "case-jonestown",
+      "title": "RYMUR：Leo Ryan謀殺案／Jonestown調查",
+      "url": "https://vault.fbi.gov/jonestown",
+      "publisher": "美國聯邦調查局 FBI",
+      "publishedAt": null,
+      "accessedAt": "2026-10-04",
+      "type": "政府／公共機關"
+    },
+    {
+      "id": "case-nxivm",
+      "title": "NXIVM領導人因有組織犯罪及性販運等罪被判刑",
+      "url": "https://www.justice.gov/usao-edny/pr/nxivm-leader-keith-raniere-sentenced-120-years-prison-racketeering-and-sex-trafficking",
+      "publisher": "美國司法部",
+      "publishedAt": "2020-10-27",
+      "accessedAt": "2026-10-04",
+      "type": "政府／公共機關"
+    },
+    {
+      "id": "help-110",
+      "title": "24小時緊急通報專線",
+      "url": "https://safemyhome.npa.gov.tw/ch/app/artwebsite/view?id=1358&module=artwebsite&serno=f1512793-602e-4977-beaa-356fbeba6bd6",
+      "publisher": "內政部警政署",
+      "publishedAt": null,
+      "accessedAt": "2026-10-04",
+      "type": "政府／公共機關"
+    },
+    {
+      "id": "help-113",
+      "title": "113保護專線介紹",
+      "url": "https://dep.mohw.gov.tw/DOPs/cp-1183-6499-105.html",
+      "publisher": "衛生福利部保護服務司",
+      "publishedAt": null,
+      "accessedAt": "2026-10-04",
+      "type": "政府／公共機關"
+    }
+  ]
+}
